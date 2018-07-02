@@ -24,7 +24,7 @@ How to install:
       
 As for the use of Net_Diff, please refer to the guide document.
 
-Sorry that only execute file is provided currently. Souece code will be uploaded soon.
+Sorry that only execute file is provided currently. Source code will be uploaded very soon.
       
 ****************************************************************************************************
 If you have any questions or problems in using Net_Diff, please contact me:  zhyize@163.com
