@@ -12,9 +12,11 @@ How to install:
 1. Click gzip-1.3.12-1-setup.exe and install gzip;
 
 2. a) If you have installed MATLAB Runtime version 9.2 (R2017a) in your computer
+   
       Open /for_redistribution_files_only/ and click Net_Diff.exe
       
-   b) If not
+   b) If not.
+   
       Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
       Please keep your computer connected to internet while installing.
       It will take a few minutes to download MATLAB Runtime, please be patient.
