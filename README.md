@@ -12,7 +12,7 @@ It also provides IGS data and products download.
 How to install:
 1. Click gzip-1.3.12-1-setup.exe and install gzip. For example, after install it, gzip.exe is under C:\Program Files (x86)\GnuWin32\bin\
  
-2. a) If you have installed MATLAB Runtime version 9.2 (R2017a) in your computer
+2. a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.(I'm not sure if other version of MATLAB is ok. But if you have one, please try it.)
    
       Open /for_redistribution_files_only/ and click Net_Diff.exe
       
