@@ -1,7 +1,7 @@
 
 ! Reference:ionosphere.cn/glonass_frequency_channel
 !            E:\cddis\FTP\Get_GLO_Fre.m
-! Last updated: 2018  6 28
+! Last updated: 2018  7 11
 ++GLONASS Information++++++++++++++++++++++++++++++++++++++++++++++++
 * 
 2005 01 01
