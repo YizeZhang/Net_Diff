@@ -1,6 +1,6 @@
 
-This is the installation file of Net_Diff for user who don't have MATLAB or MATLAB Run Time in the computer.
+This is the installation file of Net_Diff for user who don't have MATLAB R2017a or MATLAB Runtime version 9.2 (R2017a).  in the computer.
 
 When running it, please keep your computer connected to internet.
 
-It may takes some minutes to download Matlab Run Time, please be patient.
+It may takes some minutes to download MATLAB Runtime , please be patient.
