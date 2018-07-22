@@ -21,7 +21,9 @@ How to install:
       Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
       Please keep your computer connected to internet while installing.
       It will take a few minutes to download MATLAB Runtime, please be patient.
-      After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\. If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\ to other disk.
+      After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\. 
+      
+      If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\ to other disk.
       
 3. Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
