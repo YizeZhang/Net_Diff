@@ -37,3 +37,4 @@ Revision Note:
 
 2018/07/23 1. modify GUI in Analysis panel 
            2. Fix bugs in RTK when reference satellite change
+           3. Change GLONASS satellite number from 24 to 27
