@@ -32,3 +32,7 @@ As for the use of Net_Diff, please refer to the guide document "A guide to use N
 Source code is under the src branch.     
 ****************************************************************************************************
 If you have any questions or problems in using Net_Diff, please contact me:  zhyize@163.com
+
+Revision Note:
+2018/07/23 1. modify GUI in Analysis panel
+           2. Fix bugs in RTK when reference satellite change
