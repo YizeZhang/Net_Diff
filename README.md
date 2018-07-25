@@ -33,10 +33,16 @@ Source code is under the src branch.
 ****************************************************************************************************
 If you have any questions or problems in using Net_Diff, please contact me:  zhyize@163.com
 
+
+****************************************************************************************************
 Revision Note:
 
-2018/07/24 1. modify GUI in Analysis panel 
+2018/07/24 
+   1. Modify GUI in Analysis panel 
 
    2. Fix bugs in RTK
 
    3. Change GLONASS satellite number from 24 to 27
+   
+2018/07/25
+   1. Modify ISB model in PPP
