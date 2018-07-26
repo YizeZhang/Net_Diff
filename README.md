@@ -40,7 +40,7 @@ Revision Note:
 2018/07/24 
    1. Modify GUI in Analysis panel 
 
-   2. Fix bugs in RTK
+   2. Modify RTK fix and hold mode
 
    3. Change GLONASS satellite number from 24 to 27
    
@@ -48,3 +48,6 @@ Revision Note:
    1. Modify ISB model in PPP
    
    2. Fix bugs of BeiDou PCO
+   
+2017/07/26
+   1. Fix bugs in GUI
