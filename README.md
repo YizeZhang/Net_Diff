@@ -51,3 +51,10 @@ Revision Note:
    
 2017/07/26
    1. Fix bugs in GUI
+   
+2017/08/09
+   1. Modify GUI
+   
+   2. Change selecting reference satellite method
+   
+   3. Change settings in long baseline RTK
