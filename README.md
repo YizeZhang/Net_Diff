@@ -58,3 +58,8 @@ Revision Note:
    2. Change selecting reference satellite method
    
    3. Change settings in long baseline RTK
+   
+2017/08/16
+   1. Use traditional KF algorithm in long baseline RTK and change some settings
+   
+   2. Modify Galileo F/Nav and I/Nav broadcast ephemeris selection
