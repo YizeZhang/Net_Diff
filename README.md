@@ -59,7 +59,9 @@ Revision Note:
    
    3. Change settings in long baseline RTK
    
-2017/08/16
+2017/08/17
    1. Use traditional KF algorithm in long baseline RTK and change some settings
    
    2. Modify Galileo F/Nav and I/Nav broadcast ephemeris selection
+   
+   3. Add GLONASS in RTK float solution
