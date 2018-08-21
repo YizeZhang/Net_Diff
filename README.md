@@ -65,3 +65,8 @@ Revision Note:
    2. Modify Galileo F/Nav and I/Nav broadcast ephemeris selection
    
    3. Add GLONASS in RTK float solution
+   
+2017/08/21
+   1. Change default ratio from 3 to 2
+   
+   2. Fix bug of static long baseline RTK
