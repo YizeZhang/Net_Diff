@@ -70,3 +70,7 @@ Revision Note:
    1. Change default ratio from 3 to 2
    
    2. Fix bug of static long baseline RTK
+
+2017/08/21
+   1. Fix bugs in GUI
+   
