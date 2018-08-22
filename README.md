@@ -35,7 +35,7 @@ If you have any questions or problems in using Net_Diff, please contact me:  zhy
 
 
 ****************************************************************************************************
-Revision Note:
+Revision History:
 
 2018/07/24 
    1. Modify GUI in Analysis panel 
