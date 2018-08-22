@@ -71,6 +71,6 @@ Revision Note:
    
    2. Fix bug of static long baseline RTK
 
-2017/08/21
+2017/08/22
    1. Fix bugs in GUI
    
