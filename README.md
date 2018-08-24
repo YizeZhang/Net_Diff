@@ -74,3 +74,7 @@ Revision History:
 2017/08/22
    1. Fix bugs in GUI
    
+2017/08/24
+   1. Change coordinate variance to 60m, modify outliers detection
+   
+   2. Change troposphere constraint in long baseline RTK
