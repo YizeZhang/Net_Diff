@@ -78,3 +78,6 @@ Revision History:
    1. Change coordinate variance to 60m, modify outliers detection
    
    2. Change troposphere constraint in long baseline RTK
+
+2017/08/26
+   1. Modify partial AR
