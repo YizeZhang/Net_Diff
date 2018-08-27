@@ -81,3 +81,7 @@ Revision History:
 
 2017/08/26
    1. Modify partial AR
+   
+2017/08/27
+   1. Change settings for long baseline RTK
+   
