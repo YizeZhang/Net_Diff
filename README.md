@@ -84,4 +84,11 @@ Revision History:
    
 2017/08/27
    1. Change settings for long baseline RTK
+    
+2017/08/30
+   1. Change selection of reference satellite in RTK
+   
+   2. Improve outlier detection in RTK
+   
+   3. Change Galileo max satellite number from 31 to 36
    
