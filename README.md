@@ -91,4 +91,8 @@ Revision History:
    2. Improve outlier detection in RTK
    
    3. Change Galileo max satellite number from 31 to 36
+    
+2017/09/03
+   1. Modify GUI
+   
    
