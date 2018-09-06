@@ -95,4 +95,9 @@ Revision History:
 2017/09/03
    1. Modify GUI
    
+2017/09/06
+   1. Fix bugs in GUI
+   
+   2. Add GPS L2C observation
+   
    
