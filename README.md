@@ -101,6 +101,7 @@ Revision History:
    2. Add GPS L2C observation
    
 ************************* V1.1 **********************************
+
 2017/09/11
    1. Fix bugs when there are too few satellites while cycle slip in RTK
    
