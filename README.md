@@ -101,6 +101,7 @@ Revision History:
    2. Add GPS L2C observation
    
 
+
 ************************* V1.1 **********************************
 
 2017/09/13
@@ -108,6 +109,8 @@ Revision History:
    
    2. Add Doppler selection in GUI
    
+2017/09/14
+   1. Add RINEX editing in GUI, modify GUI
    
    
    
