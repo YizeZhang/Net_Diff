@@ -110,7 +110,10 @@ Revision History:
    2. Add Doppler selection in GUI
    
 2017/09/16
-   1. Add RINEX editing in GUI, modify GUI
+   1. Add RINEX editing in GUI, modify GUI 
+   
+2017/09/18
+   1. Add Time and Coordinate Transfer in GUI.
    
    
    
