@@ -115,5 +115,19 @@ Revision History:
 2017/09/18
    1. Add Time and Coordinate Transfer in GUI.
    
+   2. Add command line file input function for Net_Diff.
+   
+
+************************* V1.2 **********************************
+
+2017/09/28
+   1. Fix bugs for static SPP.
+   
+   2. Add multi-GNSS tight combine RTK
+   
+   3. Add posfile output avalible for RTKPLOT.
+   
+   4. Support Coordinate.txt appended into Control.txt
+   
    
    
