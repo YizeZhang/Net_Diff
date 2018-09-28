@@ -123,15 +123,15 @@ Revision History:
 ************************* V1.2 **********************************
 
 2017/09/28
-   1. Fix bugs for static SPP.
+   1. Fix bugs in static SPP
    
    2. Fix bugs in GUI
    
    3. Add multi-GNSS tight combine RTK
    
-   4. Add posfile output avalible for RTKPLOT.
+   4. Add posfile output available for RTKPLOT.
    
-   5. Support Coordinate.txt appended into Control.txt
+   5. Support Coordinate.txt appended after Control.txt
    
    
    
