@@ -137,5 +137,12 @@ Revision History:
    
    5. Support Coordinate.txt appended after Control.txt
    
+
+2017/09/29
+   1. Fix bugs in BDS WADS PPP mode
+   
+   2. Modify GUI
+   
+   
    
    
