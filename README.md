@@ -143,7 +143,6 @@ Revision History:
    
    2. Modify GUI
    
-   3. Speed up download RINEX data by parallel pool.
    
    
    
