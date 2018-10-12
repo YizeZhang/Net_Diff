@@ -35,11 +35,15 @@ If you have any questions or problems in using Net_Diff, please contact me:  zhy
 
 
 ****************************************************************************************************
+
+
+
 Revision History:
 
 
 
-************************* V1.0 **********************************
+************************************************************************
+                              V1.0
 
 2018/07/24 
    1. Modify GUI in Analysis panel 
@@ -107,7 +111,9 @@ Revision History:
 
 
 
-************************* V1.1 **********************************
+
+************************************************************************
+                              V1.1
 
 2017/09/13
    1. Fix bugs when there are too few satellites while cycle slip in RTK
@@ -124,14 +130,16 @@ Revision History:
    
 
 
-************************* V1.2 **********************************
+
+************************************************************************
+                              V1.2
 
 2017/09/28
    1. Fix bugs in static SPP
    
    2. Fix bugs in GUI
    
-   3. Add multi-GNSS tight combine RTK
+   3. Add multi-GNSS tight combined RTK
    
    4. Add posfile output available for RTKPLOT.
    
@@ -142,6 +150,15 @@ Revision History:
    1. Fix bugs in BDS WADS PPP mode
    
    2. Modify GUI
+   
+
+2017/10/12
+   1. Fix bug in BeiDou PCO of C13 for gbm
+   
+   2. Modify tight combined RTK
+   
+   3. Modify GUI
+   
    
    
    
