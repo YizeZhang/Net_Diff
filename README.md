@@ -155,11 +155,23 @@ Revision History:
 2017/10/12
    1. Fix bug in BeiDou PCO of C13 for gbm
    
-   2. Modify tight combined RTK
+   2. Modify tightly combined RTK
+   
+   3. Modify GUI   
+   
+
+
+
+************************************************************************
+*****************************      V1.3    *****************************
+   
+2017/10/17
+   1. Add GLONASS AR
+   
+   2. Modify tightly combined RTK
+   
+   3. Add Android raw data convert to RINEX
    
    3. Modify GUI
-   
-   
-   
    
    
