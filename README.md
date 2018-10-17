@@ -166,7 +166,7 @@ Revision History:
 *****************************      V1.3    *****************************
    
 2017/10/17
-   1. Add GLONASS AR
+   1. Add GLONASS AR in tightly or loosely combined RTK
    
    2. Modify tightly combined RTK
    
