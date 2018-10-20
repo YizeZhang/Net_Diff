@@ -178,3 +178,8 @@ Revision History:
    3. Modify GUI
    
    
+   
+2017/10/20
+   1. Fix bugs in non-L1L2 combination when using clock from sp3 file
+   
+   2. Fix bugs tightly combined RTK
