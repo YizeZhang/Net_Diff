@@ -198,3 +198,7 @@ Revision History:
    
    5. Change maximum time difference of RTK to 30s
    
+   6. Modify GUI
+   
+   
+   
