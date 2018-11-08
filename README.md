@@ -187,11 +187,11 @@ Revision History:
    
    
 2017/11/08
-   1. Fix bugs in single system SPP when ISB setting is true
+   1. Fix bugs of single system SPP when ISB setting is true
    
    2. Fix bugs of SPP for outlier detection
    
-   3. Fix bugs of PCV correction for Galileo and QZSS and consider PCV difference at diffrent frequency
+   3. Fix bugs of PCV correction for Galileo and QZSS
    
    4. Fix bugs of loosely combined GLONASS RTK
    
