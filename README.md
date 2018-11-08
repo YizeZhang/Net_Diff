@@ -60,53 +60,53 @@ Revision History:
    
    2. Fix bugs of BeiDou PCO
    
-2017/07/26
+2018/07/26
    1. Fix bugs in GUI
    
-2017/08/09
+2018/08/09
    1. Modify GUI
    
    2. Change selecting reference satellite method
    
    3. Change settings in long baseline RTK
    
-2017/08/17
+2018/08/17
    1. Use traditional KF algorithm in long baseline RTK and change some settings
    
    2. Modify Galileo F/Nav and I/Nav broadcast ephemeris selection
    
    3. Add GLONASS in RTK float solution
    
-2017/08/21
+2018/08/21
    1. Change default ratio from 3 to 2
    
    2. Fix bug of static long baseline RTK
 
-2017/08/22
+2018/08/22
    1. Fix bugs in GUI
    
-2017/08/24
+2018/08/24
    1. Change coordinate variance to 60m, modify outliers detection
    
    2. Change troposphere constraint in long baseline RTK
 
-2017/08/26
+2018/08/26
    1. Modify partial AR
    
-2017/08/27
+2018/08/27
    1. Change settings for long baseline RTK
     
-2017/08/30
+2018/08/30
    1. Change selection of reference satellite in RTK
    
    2. Improve outlier detection in RTK
    
    3. Change Galileo max satellite number from 31 to 36
     
-2017/09/03
+2018/09/03
    1. Modify GUI
    
-2017/09/06
+2018/09/06
    1. Fix bugs in GUI
    
    2. Add GPS L2C observation
@@ -118,15 +118,16 @@ Revision History:
 ************************************************************************
 *****************************      V1.1    *****************************
 
-2017/09/13
+2018/
+09/13
    1. Fix bugs when there are too few satellites while cycle slip in RTK
    
    2. Add Doppler selection in GUI
    
-2017/09/16
+2018/09/16
    1. Add RINEX editing in GUI, modify GUI 
    
-2017/09/18
+2018/09/18
    1. Add Time and Coordinate Transfer in GUI.
    
    2. Add command line file input function for Net_Diff.
@@ -137,7 +138,7 @@ Revision History:
 ************************************************************************
 *****************************      V1.2    *****************************
 
-2017/09/28
+2018/09/28
    1. Fix bugs in static SPP
    
    2. Fix bugs in GUI
@@ -149,13 +150,13 @@ Revision History:
    5. Support Coordinate.txt appended after Control.txt
    
 
-2017/09/29
+2018/09/29
    1. Fix bugs in BDS WADS PPP mode
    
    2. Modify GUI
    
 
-2017/10/12
+2018/10/12
    1. Fix bug in BeiDou PCO of C13 for gbm
    
    2. Modify tightly combined RTK
@@ -168,7 +169,7 @@ Revision History:
 ************************************************************************
 *****************************      V1.3    *****************************
    
-2017/10/17
+2018/10/17
    1. Add GLONASS AR in tightly or loosely combined RTK
    
    2. Modify tightly combined RTK
@@ -179,14 +180,14 @@ Revision History:
    
    
    
-2017/10/20
+2018/10/20
    1. Fix bugs in non-L1L2 combination when using clock from sp3 file
    
    2. Fix bugs tightly combined RTK
    
    
    
-2017/11/08
+2018/11/08
    1. Fix bugs of single system SPP when ISB setting is true
    
    2. Fix bugs of SPP for outlier detection
