@@ -183,3 +183,17 @@ Revision History:
    1. Fix bugs in non-L1L2 combination when using clock from sp3 file
    
    2. Fix bugs tightly combined RTK
+   
+   
+   
+2017/11/08
+   1. Fix bugs in single system SPP when ISB setting is true
+   
+   2. Fix bugs of SPP for outlier detection
+   
+   3. Fix bugs of PCV correction for Galileo and QZSS and consider PCV difference at diffrent frequency
+   
+   4. Fix bugs of loosely combined GLONASS RTK
+   
+   5. Change maximum time difference of RTK to 30s
+   
