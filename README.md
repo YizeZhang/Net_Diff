@@ -200,8 +200,24 @@ Revision History:
    
    6. Modify GUI
    
-   
+ 
+
+
+************************************************************************
+*****************************      V1.1    *****************************
+ 
    
 2018/11/09
    1. Support mixed frequency combination for multi-GNSS (only supported in GUI)
+   
+   
+   
+2018/11/11
+   1. Support PPP-AR (only supported in GUI)
+   
+   2. Add phase windup correction in RTK
+   
+   3. Modify GUI
+   
+   
    
