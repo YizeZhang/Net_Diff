@@ -208,7 +208,7 @@ Revision History:
  
    
 2018/11/09
-   1. Support mixed frequency combination for multi-GNSS (only available in GUI)
+   1. Support mix-frequency combination for multi-GNSS (only available in GUI)
    
    
    
