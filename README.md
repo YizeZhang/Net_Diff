@@ -215,9 +215,13 @@ Revision History:
 2018/11/11
    1. Support PPP-AR (only available in GUI)
    
-   2. Add phase windup correction in RTK
+   2. Support undifferenced u combined PPP (only available in GUI)
    
-   3. Modify GUI
+   3. Fix bug of Galileo PCO correction
+   
+   4. Add phase windup correction in RTK
+   
+   5. Modify GUI
    
    
    
