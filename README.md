@@ -122,15 +122,15 @@ Revision History:
 09/13
    1. Fix bugs when there are too few satellites while cycle slip in RTK
    
-   2. Add Doppler selection in GUI
+   2. Support Doppler selection in GUI
    
 2018/09/16
-   1. Add RINEX editing in GUI, modify GUI 
+   1. Support RINEX editing in GUI, modify GUI 
    
 2018/09/18
-   1. Add Time and Coordinate Transfer in GUI.
+   1. Support Time and Coordinate Transfer in GUI.
    
-   2. Add command line file input function for Net_Diff.
+   2. Support command line file input function for Net_Diff.
    
 
 
@@ -143,9 +143,9 @@ Revision History:
    
    2. Fix bugs in GUI
    
-   3. Add multi-GNSS tight combined RTK
+   3. Support multi-GNSS tight combined RTK
    
-   4. Add posfile output available for RTKPLOT.
+   4. Support posfile output available for RTKPLOT.
    
    5. Support Coordinate.txt appended after Control.txt
    
@@ -170,11 +170,11 @@ Revision History:
 *****************************      V1.3    *****************************
    
 2018/10/17
-   1. Add GLONASS AR in tightly or loosely combined RTK
+   1. Support GLONASS AR in tightly or loosely combined RTK
    
    2. Modify tightly combined RTK
    
-   3. Add Android raw data convert to RINEX
+   3. Support Android raw data convert to RINEX
    
    3. Modify GUI
    
@@ -208,20 +208,24 @@ Revision History:
  
    
 2018/11/09
-   1. Support mix-frequency combination for multi-GNSS (only available in GUI)
+   1. Support mix-frequency combination for multi-GNSS positoning (only available in GUI)
    
    
    
-2018/11/11
+2018/11/12
    1. Support PPP-AR (only available in GUI)
    
-   2. Support undifferenced u combined PPP (only available in GUI)
+   2. Support undifferenced uncombined PPP (only available in GUI)
    
    3. Fix bug of Galileo PCO correction
    
-   4. Add phase windup correction in RTK
+   4. Add output of ionosphere correction in uncombined PPP
    
-   5. Modify GUI
+   5. Add phase windup correction in RTK
+   
+   6. Resize matrix of some variable according to seleted GNSS system
+   
+   7. Modify GUI
    
    
    
