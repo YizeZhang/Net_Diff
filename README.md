@@ -229,3 +229,7 @@ Revision History:
    
    
    
+2018/11/13
+   1. Fix bug in LtDL decompostion of LAMBDA
+   
+   
