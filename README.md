@@ -223,13 +223,18 @@ Revision History:
    
    5. Add phase windup correction in RTK
    
-   6. Resize matrix of some variable according to seleted GNSS system
+   6. Redude matrix size accoraccording to seleted GNSS system
    
    7. Modify GUI
    
    
    
 2018/11/13
-   1. Fix bug in LtDL decompostion of LAMBDA
+   1. Fix bug in LAMBDA
+   
+   
+   
+2018/11/16
+   1. Support mix-observation combination on each satellite system 
    
    
