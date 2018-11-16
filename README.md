@@ -226,7 +226,7 @@ Revision History:
    
    9. Fix bug of Galileo PCO correction
    
-   10. Modify GUI (only available in GUI)
+   10. Modify GUI
    
    
 
