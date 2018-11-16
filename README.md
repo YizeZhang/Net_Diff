@@ -223,7 +223,7 @@ Revision History:
    
    5. Add phase windup correction in RTK
    
-   6. Redude matrix size according to seleted GNSS system
+   6. Changeable matrix size according to seleted GNSS system
    
    7. Modify GUI (only available in GUI)
    
@@ -235,6 +235,6 @@ Revision History:
    
    
 2018/11/16
-   1. Support mix-observation combination on each satellite System- (only available in GUI)
+   1. Support mix-observation combination on each satellite system (only available in GUI)
    
    
