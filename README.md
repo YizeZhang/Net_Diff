@@ -222,11 +222,13 @@ Revision History:
    
    7. Reduce matrix size to speed up processing time
    
-   8. Fix bug in LAMBDA
+   8. Changeable cycle slip detection threshold
    
-   9. Fix bug of Galileo PCO correction
+   9. Fix bug in LAMBDA
    
-   10. Modify GUI
+   10. Fix bug of Galileo PCO correction
+   
+   11. Modify GUI
    
    
 
