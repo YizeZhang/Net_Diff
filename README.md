@@ -220,7 +220,7 @@ Revision History:
    
    6. Add phase windup correction in RTK
    
-   7. Reduce matrix size to speed up processing time
+   7. Reduce matrix size to improve processing efficiency
    
    8. Changeable cycle slip detection threshold
    
