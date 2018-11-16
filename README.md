@@ -207,34 +207,28 @@ Revision History:
 *****************************      V1.4    *****************************
  
    
-2018/11/09
-   1. Support mix-frequency combination for multi-GNSS positoning (only available in GUI)
-   
-   
-   
-2018/11/12
-   1. Support PPP-AR (only available in GUI)
-   
-   2. Support undifferenced uncombined PPP (only available in GUI)
-   
-   3. Fix bug of Galileo PCO correction
-   
-   4. Add output of ionosphere correction in uncombined PPP
-   
-   5. Add phase windup correction in RTK
-   
-   6. Changeable matrix size according to seleted GNSS system
-   
-   7. Modify GUI (only available in GUI)
-   
-   
-   
-2018/11/13
-   1. Fix bug in LAMBDA
-   
-   
-   
 2018/11/16
-   1. Support mix-observation combination on each satellite system (only available in GUI)
+   1. Support mix-frequency combination on each satellite system (only available in GUI)
+   
+   2. Support mix-observation combination on each satellite system (only available in GUI)
+   
+   3. Support PPP-AR (only available in GUI)
+   
+   4. Support undifferenced uncombined PPP (only available in GUI)
+   
+   5. Add output of ionosphere correction in uncombined PPP
+   
+   6. Add phase windup correction in RTK
+   
+   7. Reduce matrix size to speed up processing time
+   
+   8. Fix bug in LAMBDA
+   
+   9. Fix bug of Galileo PCO correction
+   
+   10. Modify GUI (only available in GUI)
+   
+   
+
    
    
