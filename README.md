@@ -230,7 +230,18 @@ Revision History:
    
    11. Modify GUI
    
+  
    
+2018/11/19
+   1. Support triple-frequency PPP (only available in GUI)
+   
+   2. Change ionosphere initial value in PPP
+   
+   3. Fix bug of ionosphere correction when frequencycombination is L2L3
+   
+   4. Modify GUI
+   
+
 
    
    
