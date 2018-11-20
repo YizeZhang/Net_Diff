@@ -239,7 +239,9 @@ Revision History:
    
    3. Fix bug of ionosphere correction when frequencycombination is L2L3
    
-   4. Modify GUI
+   4. Fix bug when cycle slip method is only LLI in RTK
+       
+   5. Modify GUI
    
 
 
