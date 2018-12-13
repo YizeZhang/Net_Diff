@@ -12,10 +12,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 
 *****************************************************************************************************
-##How to install:
-*1. Click gzip-1.3.12-1-setup.exe and install gzip. For example, after install it, gzip.exe is under C:\Program Files (x86)\GnuWin32\bin\
+## How to install:
+* 1. Click gzip-1.3.12-1-setup.exe and install gzip. For example, after install it, gzip.exe is under C:\Program Files (x86)\GnuWin32\bin\
  
-*2. a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.
+* 2. a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.
    
       Open /for_redistribution_files_only/ and click Net_Diff.exe
       
@@ -28,25 +28,26 @@ It also provides some useful tools such as time and coordinate system transfer, 
       
       !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other disk.!!!!!!!!!
       
-*3. Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
+* 3. Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
 As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
 
-Source code is under the src branch.     
-****************************************************************************************************
-If you have any questions or problems in using Net_Diff, please contact me:  *zhyize@163.com*
+Source code is under the src branch.    
+
+***
+* If you have any questions or problems in using Net_Diff, please contact me: * zhyize@163.com
 
 
-****************************************************************************************************
-
-
-
-##Revision History:
+***
 
 
 
-************************************************************************
-*****************************      V1.0    *****************************
+## Revision History:
+
+
+
+---
+###     **V1.0**
 
 2018/07/24 
    1. Modify GUI in Analysis panel 
@@ -115,8 +116,8 @@ If you have any questions or problems in using Net_Diff, please contact me:  *zh
 
 
 
-************************************************************************
-*****************************      V1.1    *****************************
+---
+###     **V1.1**
 
 2018/
 09/13
@@ -135,8 +136,8 @@ If you have any questions or problems in using Net_Diff, please contact me:  *zh
 
 
 
-************************************************************************
-*****************************      V1.2    *****************************
+---
+###     **V1.2**
 
 2018/09/28
    1. Fix bugs in static SPP
@@ -166,8 +167,8 @@ If you have any questions or problems in using Net_Diff, please contact me:  *zh
 
 
 
-************************************************************************
-*****************************      V1.3    *****************************
+---
+###     **V1.3**
    
 2018/10/17
    1. Support GLONASS AR in tightly or loosely combined RTK
@@ -203,8 +204,8 @@ If you have any questions or problems in using Net_Diff, please contact me:  *zh
  
 
 
-************************************************************************
-*****************************      V1.4    *****************************
+---
+###     **V1.4**
  
    
 2018/11/16
