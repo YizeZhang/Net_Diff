@@ -21,27 +21,30 @@ It also provides some useful tools such as time and coordinate system transfer, 
   
  2. Instal Net_Diff
  
-   *a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.*
+    *a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.*
    
-      Open /for_redistribution_files_only/ and click Net_Diff.exe
+        Open /for_redistribution_files_only/ and click Net_Diff.exe
       
-   *b) If not.*
+    *b) If not.*
    
-      Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
-      Please keep your computer connected to internet while installing.
-      It will take a few minutes to download MATLAB Runtime, please be patient.
-      After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
+        Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
+     
+        Please keep your computer connected to internet while installing.
+        
+        It will take a few minutes to download MATLAB Runtime, please be patient.
+        
+        After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
       
-      !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other disk.!!!!!!!!!
+        !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other disk.!!!!!!!!!
       
   3. Complete Full Installation
   
     Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
 ***
-As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
+* As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
 
-Source code is under the src branch.    
+* Source code is under the src branch.    
 
 ***
 *If you have any questions or problems in using Net_Diff, please contact me: zhyize@163.com*
