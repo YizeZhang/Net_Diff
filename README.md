@@ -18,14 +18,14 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2. Instal Net_Diff
    * a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.
    
-      Open /for_redistribution_files_only/ and click Net_Diff.exe
+      >Open /for_redistribution_files_only/ and click Net_Diff.exe
       
-   * b) If not.
+   *b) If not.
    
-      Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
-      Please keep your computer connected to internet while installing.
-      It will take a few minutes to download MATLAB Runtime, please be patient.
-      After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
+      >Open /for_redistribution/ and click Net_Diff_Installer_web.exe to install MATLAB Runtime and Net_Diff.exe
+      >Please keep your computer connected to internet while installing.
+      >It will take a few minutes to download MATLAB Runtime, please be patient.
+      >After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
       
       !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other disk.!!!!!!!!!
       
@@ -48,7 +48,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 
 ---
-###     ** **************V1.0**************** **
+###     ** **************V1.0***********
 
 2018/07/24 
    1. Modify GUI in Analysis panel 
