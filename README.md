@@ -122,14 +122,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
    2. Add GPS L2C observation
    
 
-
-
-
 ---
 ###     **V1.1**
 
-2018/
-09/13
+2018/09/13
    1. Fix bugs when there are too few satellites while cycle slip in RTK
    
    2. Support Doppler selection in GUI
@@ -142,8 +138,6 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Support command line file input function for Net_Diff.
    
-
-
 
 ---
 ###     **V1.2**
@@ -159,13 +153,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    5. Support Coordinate.txt appended after Control.txt
    
-
 2018/09/29
    1. Fix bugs in BDS WADS PPP mode
    
    2. Modify GUI
    
-
 2018/10/12
    1. Fix bug in BeiDou PCO of C13 for gbm
    
@@ -173,8 +165,6 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Modify GUI   
    
-
-
 
 ---
 ###     **V1.3**
@@ -187,16 +177,12 @@ It also provides some useful tools such as time and coordinate system transfer, 
    3. Support Android raw data convert to RINEX
    
    3. Modify GUI
-   
-   
-   
+       
 2018/10/20
    1. Fix bugs in non-L1L2 combination when using clock from sp3 file
    
    2. Fix bugs tightly combined RTK
-   
-   
-   
+         
 2018/11/08
    1. Fix bugs of single system SPP when ISB setting is true
    
@@ -210,13 +196,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    6. Modify GUI
    
- 
-
 
 ---
 ###     **V1.4**
- 
-   
+    
 2018/11/16
    1. Support mix-frequency combination on each satellite system (only available in GUI)
    
@@ -239,9 +222,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    10. Fix bug of Galileo PCO correction
    
    11. Modify GUI
-   
-  
-   
+      
 2018/11/19
    1. Support triple-frequency undifferenced uncombined PPP (only available in GUI)
    
@@ -254,11 +235,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Modify GUI
    
 
-
 ---
 ###     **V1.5**
- 
-   
+    
 2018/12/14
    1. Support PPP-RTK (CLAS) (only available in GUI)
    
@@ -271,5 +250,4 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Modify GUI
    
 
-   
-   
+     
