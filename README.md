@@ -243,11 +243,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
   
    
 2018/11/19
-   1. Support triple-frequency PPP (only available in GUI)
+   1. Support triple-frequency undifferenced uncombined PPP (only available in GUI)
    
-   2. Change ionosphere initial value in PPP
+   2. Change ionosphere initial value of undifferenced uncombined PPP
    
-   3. Fix bug of ionosphere correction when frequencycombination is L2L3
+   3. Fix bug of ionosphere correction when frequency combination is L2L3
    
    4. Fix bug when cycle slip method is only LLI in RTK
        
