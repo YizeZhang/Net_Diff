@@ -2,7 +2,7 @@
 
 Net_Diff is a software for GNSS Download, Positioning and Analysis.
 
-It supports functions of SPP/PPP/DSPP/DPPP/RTK, it can also applied in SPP/PPP with BeiDou augmentation information.
+It supports functions of SPP/PPP/DSPP/DPPP/RTK/PPP-RTK, it can also applied in SPP/PPP with BeiDou augmentation information.
 
 It supports data analysis, including coordinate plotting, satellite skyview, satellite number, PDOP, satellite skyview, satellite number, omc, positioning residuals and so on.
  
@@ -52,7 +52,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 ***
 
-
+<br/>
+<br/>
 ## Revision History:
 
 
