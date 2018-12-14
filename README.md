@@ -255,5 +255,21 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
 
 
+---
+###     **V1.5**
+ 
+   
+2018/12/14
+   1. Support PPP-RTK (CLAS) (only available in GUI)
+   
+   2. Change output file name for better parallel computing
+   
+   3. Change threshold of outlier detection
+   
+   4. Fix bug of IRNSS frequency
+   
+   5. Modify GUI
+   
+
    
    
