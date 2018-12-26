@@ -254,9 +254,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2018/12/26
    1. Support triple-frequency ionosphere-free PPP (only available in GUI)
    
-   2. Fix bug of BDS PCO using new atx file in triple frequency PPP
+   2. Support Android dual-frequency multi-GNSS raw data converted to RINEX
    
-   3. Turn off time restriction of BSX file
+   3. Fix bug of BDS PCO using new atx file in triple frequency PPP
+   
+   4. Turn off time restriction of BSX file
    
    
 
