@@ -250,6 +250,14 @@ It also provides some useful tools such as time and coordinate system transfer, 
    4. Fix bug of IRNSS frequency
    
    5. Modify GUI
+      
+2018/12/26
+   1. Support triple-frequency ionosphere-free PPP (only available in GUI)
+   
+   2. Fix bug of BDS PCO using new atx file
+   
+   3. Turn off time restriction of BSX file
+   
    
 
      
