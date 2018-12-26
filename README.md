@@ -254,7 +254,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2018/12/26
    1. Support triple-frequency ionosphere-free PPP (only available in GUI)
    
-   2. Fix bug of BDS PCO using new atx file
+   2. Fix bug of BDS PCO using new atx file in triple frequency PPP
    
    3. Turn off time restriction of BSX file
    
