@@ -261,7 +261,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
    4. Turn off time restriction of BSX file
    
 2018/12/27
-   1. Fix bug of satellite orbit value in sp3 file is 0.000
+   1. Change maximum BeiDou satellite PRN as 37
+   
+   2. Fix bug of satellite orbit value in sp3 file is 0.000
    
 
      
