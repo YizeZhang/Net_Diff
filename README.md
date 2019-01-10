@@ -4,7 +4,7 @@ Net_Diff is a software for GNSS Download, Positioning and Analysis.
 
 It supports functions of SPP/PPP/DSPP/DPPP/RTK/PPP-RTK, it can also applied in SPP/PPP with BeiDou augmentation information.
 
-It supports data analysis, including coordinate plotting, satellite skyview, satellite number, PDOP, satellite skyview, satellite number, omc, positioning residuals and so on.
+It supports data analysis, including coordinate plotting, positioning error comparison, satellite number, PDOP, satellite skyview, satellite visibility, cycleslip, troposphere, ionosphere, observation minus correction, positioning residuals and so on.
  
 It provides IGS data and products download.
 
@@ -263,7 +263,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2018/12/27
    1. Change maximum BeiDou satellite PRN as 37
    
-   2. Fix bug of satellite orbit value in sp3 file is 0.000
+   2. Fix bug of satellite orbit value in sp3 file when it is 0.000
    
 
      
