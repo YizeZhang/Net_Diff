@@ -35,16 +35,18 @@ It also provides some useful tools such as time and coordinate system transfer, 
         
         After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
       
-        !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other disk.!!!!!!!!!
+        !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other drive.!!!!!!!!!
       
   3. Complete Full Installation
   
     Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
 ***
+* When use the software, please open it from file, not from Windows Start.    
+
 * As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
 
-* Source code is under the src branch.    
+* Source code is under the src branch.
 
 ***
 *If you have any questions or problems in using Net_Diff, please contact me: zhyize@163.com*
@@ -261,7 +263,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    4. Turn off time restriction of BSX file
    
 2018/12/27
-   1. Change maximum BeiDou satellite PRN as 37
+   1. Change maximum BeiDou satellite PRN to 37
    
    2. Fix bug of satellite orbit value in sp3 file when it is 0.000
    
