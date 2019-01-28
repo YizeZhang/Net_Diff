@@ -272,7 +272,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ###     **V1.6**
     
 2018/01/25
-   1. Support BDS new signal (B1c/B2a) (only available in GUI)
+   1. Support new signal of BDS (B1c/B2a) and GLONASS (G3), Galileo(E6), QZSS(L6) (only available in GUI)
    
    2. Fix bug of doppler aided SPP/PPP (only available in GUI)
      
