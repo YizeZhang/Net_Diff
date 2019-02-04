@@ -276,3 +276,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of doppler aided SPP/PPP (only available in GUI)
      
+2018/02/04
+   1. Support user self-named file selection in GUI
+   
+   2. Fix bug of GLONASS AR
+   
+   3. Speed up efficiency of matrix inversion and least square solution.
+   
