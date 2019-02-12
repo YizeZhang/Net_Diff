@@ -272,9 +272,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ###     **V1.6**
     
 2018/01/25
-   1. Support new signal of BDS (B1c/B2a) and GLONASS (G3), Galileo(E6), QZSS(L6) (only available in GUI)
+   1. Support new signal of BDS (B1c/B2a) and GLONASS (G3), Galileo(E6), QZSS(L6)
    
-   2. Fix bug of doppler aided SPP/PPP (only available in GUI)
+   2. Fix bug of doppler aided SPP/PPP
      
 2018/02/04
    1. Support user self-named file selection in GUI
@@ -282,4 +282,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    2. Fix bug of GLONASS AR
    
    3. Speed up efficiency of matrix inversion and least square solution.
+   
+2018/02/12
+   1. Add SNR depended stochastic model
+   
+   2. Fix bug of doppler aided RTK
+   
+   3. Modify GUI
    
