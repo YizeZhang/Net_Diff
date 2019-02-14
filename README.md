@@ -283,10 +283,12 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Speed up efficiency of matrix inversion and least square solution.
    
-2018/02/12
+2018/02/14
    1. Add SNR depended stochastic model
    
-   2. Fix bug of doppler aided RTK
+   2. Change elevation depended stochastic model in RTK, change phase noise from 1cm to 3mm
    
-   3. Modify GUI
+   3. Fix bug of doppler aided RTK
+   
+   4. Modify GUI
    
