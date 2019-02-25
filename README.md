@@ -292,3 +292,18 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Modify GUI
    
+
+---
+###     **V1.7**
+
+2018/02/25
+   1. Support Net Solution  (Authorized)
+   
+   2. Support loosely coupled PPP/INS and RTK/INS (Authorized)
+   
+   3. Add threshold of success rate in AR
+   
+   4. Fix bug of DCB correction for different frequency combination
+   
+   
+   
