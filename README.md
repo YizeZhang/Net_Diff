@@ -297,7 +297,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ###     **V1.7**
 
 2018/02/25
-   1. Support Net Solution  (Authorized)
+   1. Support network PPP solution  (Authorized)
    
    2. Support loosely coupled PPP/INS and RTK/INS (Authorized)
    
