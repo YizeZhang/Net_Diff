@@ -303,7 +303,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Add threshold of success rate in AR
    
-   4. Fix bug of DCB correction for different frequency combination
+   4. Add data-based and model-based combined AR
+   
+   5. Fix bug of DCB correction for different frequency combination
    
    
    
