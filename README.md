@@ -303,9 +303,13 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Add threshold of success rate in AR
    
-   4. Add data-based and model-based combined AR
+   4. Add data-based and model-based combined AR   
    
-   5. Fix bug of DCB correction for different frequency combination
+   6. Fix bug of DCB correction for different frequency combination
    
+2018/02/27   
+   1. Add ionosphere compensate in long baseline RTK
+   
+   2. Use I/Nav if F/Nav is unavaliable for Galileo
    
    
