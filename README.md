@@ -315,5 +315,5 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2018/03/207 
    1. Modify stochastic model for observations
    
-   2. Add DCB of L2C signal
+   2. Add DCB correction of L2C observation
    
