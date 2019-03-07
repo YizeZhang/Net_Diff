@@ -312,4 +312,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Use I/Nav if F/Nav is unavaliable for Galileo
    
+2018/03/207 
+   1. Modify stochastic model for observations
+   
+   2. Add DCB of L2C signal
    
