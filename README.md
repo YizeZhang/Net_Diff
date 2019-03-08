@@ -310,10 +310,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2018/02/27   
    1. Add ionosphere compensate in long baseline RTK
    
-   2. Use I/Nav if F/Nav is unavaliable for Galileo
+   2. Use I/Nav when F/Nav is unavaliable for Galileo
    
-2018/03/207 
-   1. Modify stochastic model for observations
+2018/03/08
+   1. Modify stochastic model of observations
    
    2. Add DCB correction of L2C observation
    
