@@ -317,7 +317,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Add DCB correction of L2C observation
    
-2018/03/11
-   1. Fix bug of GLONASS velocity calculation
+2018/03/13
+   1. Add forward and backward combined RTK
+   
+   2. Fix bug of GLONASS velocity calculation
    
    
