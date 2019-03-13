@@ -322,4 +322,4 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of GLONASS velocity calculation
    
-   
+   3. Add ionosphere process noise seeting in long baseline RTK mode
