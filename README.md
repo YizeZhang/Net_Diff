@@ -19,7 +19,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
       
         For example, after install it, gzip.exe is under C:\Program Files (x86)\GnuWin32\bin\
   
- 2. Instal Net_Diff
+ 2. Install Net_Diff
  
     *a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.*
    
