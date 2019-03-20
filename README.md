@@ -243,7 +243,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ###     **V1.5**
     
 2018/12/14
-   1. Support PPP-RTK (CLAS) (only available in GUI)
+   1. Support PPP-RTK (CLAS) (Authorized)
    
    2. Change output file name for better parallel computing
    
@@ -322,7 +322,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of GLONASS velocity calculation
    
-   3. Add ionosphere process noise seeting in long baseline RTK mode
+   3. Add ionosphere process noise setting in long baseline RTK
    
    4. Fix bug of GBM products download error
    
