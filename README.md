@@ -329,7 +329,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Fix bug of uncombined PPP
    
 2018/03/20
-   1. Modify long baseline RTK
+   1. Modify tightly combined RTK
    
    2. Modify elevation depended stochastic model
    
