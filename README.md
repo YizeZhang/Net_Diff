@@ -335,3 +335,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Fix bug of GNSS product downloading
    
+2018/03/26
+   1. Fix bug of BDS3 PPP
+   
+   2. Fix bug of RTK
+   
+   3. Fix bug of BDS3 DCB correction
+   
+   
