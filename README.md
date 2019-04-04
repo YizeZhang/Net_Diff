@@ -342,4 +342,15 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    3. Fix bug of BDS3 DCB correction
    
+2018/04/04
+   1. Fix bug of GLONASS IFB estimation in PPP
    
+   2. Modify EOP value selection and polar tide correction model
+   
+   3. Change time difference tolerance of navigation ephemeris
+   
+   4. Add WL elevation cutoff setting in RTK
+   
+   5. Change ionosphere constraint and initial covariance in long baseline RTK
+   
+   6. Modify GUI
