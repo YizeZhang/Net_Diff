@@ -354,3 +354,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Change ionosphere constraint and initial covariance in long baseline RTK
    
    6. Modify GUI
+
+2018/04/07
+   1. Change code and phase raw measurement noise to 0.3/0.003m
+   
+   2. Improve PPP performance in severe environment
+   
