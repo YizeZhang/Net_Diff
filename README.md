@@ -360,3 +360,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Improve PPP performance in severe environment
    
+2018/04/09
+   1. Add QZSS code DISB estimation
+   
+   2. Correct QZSS 1/4 cycle bias for Trimble receiver
+   
+   3. Don't estimate GLONASS DISB when not fix GLONASS ambiguity
+   
+   
