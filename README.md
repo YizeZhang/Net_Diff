@@ -271,19 +271,19 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ---
 ###     **V1.6**
     
-2018/01/25
+2019/01/25
    1. Support new signal of BDS (B1c/B2a) and GLONASS (G3), Galileo(E6), QZSS(L6)
    
    2. Fix bug of doppler aided SPP/PPP
      
-2018/02/04
+2019/02/04
    1. Support user self-named file selection in GUI
    
    2. Fix bug of GLONASS AR
    
    3. Speed up efficiency of matrix inversion and least square solution.
    
-2018/02/14
+2019/02/14
    1. Add SNR depended stochastic model
    
    2. Change elevation depended stochastic model in RTK, change phase noise from 1cm to 3mm
@@ -296,7 +296,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ---
 ###     **V1.7**
 
-2018/02/25
+2019/02/25
    1. Support network PPP solution  (Authorized)
    
    2. Support loosely coupled PPP/INS and RTK/INS (Authorized)
@@ -307,17 +307,17 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    6. Fix bug of DCB correction for different frequency combination
    
-2018/02/27   
+2019/02/27   
    1. Add ionosphere compensate in long baseline RTK
    
    2. Use I/Nav when F/Nav is unavaliable for Galileo
    
-2018/03/08
+2019/03/08
    1. Modify stochastic model of observations
    
    2. Add DCB correction of L2C observation
    
-2018/03/13
+2019/03/13
    1. Add forward and backward combined RTK
    
    2. Fix bug of GLONASS velocity calculation
@@ -328,21 +328,21 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    5. Fix bug of uncombined PPP
    
-2018/03/20
+2019/03/20
    1. Modify tightly combined RTK
    
    2. Modify elevation depended stochastic model
    
    3. Fix bug of GNSS product downloading
    
-2018/03/26
+2019/03/26
    1. Modify BDS3 PPP
    
    2. Fix bug of RTK
    
    3. Fix bug of BDS3 DCB correction
    
-2018/04/04
+2019/04/04
    1. Fix bug of GLONASS IFB estimation in PPP
    
    2. Modify EOP value selection and polar tide correction model
@@ -355,12 +355,12 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    6. Modify GUI
 
-2018/04/07
+2019/04/07
    1. Change code and phase raw measurement noise to 0.3/0.003m
    
    2. Improve PPP performance in severe environment
    
-2018/04/09
+2019/04/09
    1. Add QZSS code DISB estimation
    
    2. Correct QZSS 1/4 cycle bias for Trimble receiver
