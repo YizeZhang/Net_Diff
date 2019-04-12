@@ -366,5 +366,15 @@ It also provides some useful tools such as time and coordinate system transfer, 
    2. Correct QZSS 1/4 cycle bias for Trimble receiver
    
    3. Don't estimate GLONASS DISB when not fix GLONASS ambiguity
+
+---
+###     **V1.8**
+    
+2019/04/12
+   1. Support SSR correction for SPP/PPP
+   
+   2. Add dump SSR correction
+   
+   3. Change satellite velocity in ECEF
    
    
