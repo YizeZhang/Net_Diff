@@ -370,10 +370,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ---
 ###     **V1.8**
     
-2019/04/12
+2019/04/15
    1. Support SSR correction for SPP/PPP
    
-   2. Add dump SSR correction
+   2. Support dump SSR and various type of raw data to RINEX conversion(Adapt from RTKLIB)
    
    3. Change satellite velocity in ECEF
    
