@@ -373,8 +373,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2019/04/15
    1. Support SSR correction for SPP/PPP
    
-   2. Support dump RTCM SSR and various type of raw data to RINEX conversion(Adapt from RTKLIB)
+   2. Support receive RTCM message from Ntrip (Adapt from goGPS)
    
-   3. Change satellite velocity in ECEF
+   3. Support dump RTCM SSR and conversion of various type of raw data to RINEX (Adapt from RTKLIB)
+   
+   4. Change satellite velocity in ECEF
    
    
