@@ -365,7 +365,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Correct QZSS 1/4 cycle bias for Trimble receiver
    
-   3. Don't estimate GLONASS DISB when not fix GLONASS ambiguity
+   3. Don't estimate GLONASS pahse DISB when not fix GLONASS ambiguity
 
 ---
 ###     **V1.8**
