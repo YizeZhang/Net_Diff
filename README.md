@@ -8,7 +8,7 @@ It supports data analysis, including coordinate plotting, positioning error comp
  
 It provides IGS data and products download.
 
-It also provides some useful tools such as time and coordinate system transfer, RINEX edit.
+It also provides some useful tools such as time and coordinate system transfer, RINEX edit, RTCM3 and raw data convert, RTCM3 receiving.
 
 
 *****************************************************************************************************
@@ -371,7 +371,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ###     **V1.8**
     
 2019/04/15
-   1. Support SSR correction for SPP/PPP
+   1. Support SSR correction in SPP/PPP
    
    2. Support receive RTCM message from Ntrip (Adapt from goGPS)
    
