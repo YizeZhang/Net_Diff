@@ -379,7 +379,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Change satellite velocity in ECEF
    
-2019/05/14
+2019/05/15
    1. Fix bug of receiver type checking
+   
    2. Fix bug of non-GPS non-L1L2 frequency DCB correction
+   
+   3. Fix bug of real-time broadcast ephemeris doloading
    
