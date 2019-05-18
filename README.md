@@ -388,4 +388,6 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Fix bug of using Wuhan ultra-rapid multi-GNSS products
    
+   5. Fix bug of GLONASS IFB estimation in multi-GNSS PPP
+   
    
