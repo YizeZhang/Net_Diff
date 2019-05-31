@@ -33,6 +33,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
         
         It will take a few minutes to download MATLAB Runtime, please be patient.
         
+        If error occurs in downloading MATLAB Runtime 9.2, please download it by hand from              https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
+        
         After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
       
         !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other drive!!!!!!!!!
@@ -391,4 +393,4 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Fix bug of GLONASS IFB estimation in multi-GNSS PPP
       
 2019/05/22
-   1. Fix error of BDS observation data in RINEX 3.04 in some receivers
+   1. Fix error of BDS observation data in RINEX 3.04 for some receivers
