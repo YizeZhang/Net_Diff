@@ -33,7 +33,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
         
         It will take a few minutes to download MATLAB Runtime, please be patient.
         
-        If error occurs in downloading MATLAB Runtime 9.2, please download it by hand from              https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
+        If error occurs in downloading MATLAB Runtime 9.2, please download it by hand from:        
+        https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
         After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
       
