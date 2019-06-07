@@ -387,7 +387,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of non-GPS non-L1L2 frequency DCB correction
    
-   3. Fix bug of real-time broadcast ephemeris doloading
+   3. Fix bug of real-time broadcast ephemeris downloading
    
    4. Fix bug of using Wuhan ultra-rapid multi-GNSS products
    
@@ -395,3 +395,12 @@ It also provides some useful tools such as time and coordinate system transfer, 
       
 2019/05/22
    1. Fix error of BDS observation data in RINEX 3.04 for some receivers
+   
+2019/06/07
+   1. Change BDS-3 PCO value
+   
+   2. Fix bug of undifferenced uncombined PPP in troposphere variance setting
+   
+   3. Resort broadcast ephemeris and delete dumplicated BDS ephemeris
+   
+   
