@@ -401,6 +401,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of undifferenced uncombined PPP in troposphere variance setting
    
-   3. Resort broadcast ephemeris and delete dumplicated BDS ephemeris
+   3. Outtput total slant ionosphere delay rather than ionosphere correction
+   
+   4. Resort broadcast ephemeris and delete dumplicated BDS ephemeris
    
    
