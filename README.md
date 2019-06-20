@@ -407,7 +407,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
 
 2019/06/20
-   1. Change PCO value of BDS-3 B3 frequency
+   1. Change PCO value of BDS GEO satellites when using new antenna file
    
    2. Fix bug in reading RINEX 2 observation file
    
