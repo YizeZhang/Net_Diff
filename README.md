@@ -405,4 +405,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Resort broadcast ephemeris and delete dumplicated BDS ephemeris
    
+
+2019/06/20
+   1. Change PCO value of BDS-3 B3 frequency
+   
+   2. Fix bug in reading RINEX 2 observation file
+   
+   3. Change ionosphere constraints in uncombined PPP
    
