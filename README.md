@@ -411,5 +411,5 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug in reading RINEX 2 observation file
    
-   3. Change ionosphere constraints in uncombined PPP
+   3. Change ionosphere covariance in single frequency SPP or Graphic PPP
    
