@@ -394,7 +394,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Fix bug of GLONASS IFB estimation in multi-GNSS PPP
       
 2019/05/22
-   1. Fix error of BDS observation data in RINEX 3.04 for some receivers
+   1. Fix error of BDS observation data in RINEX 3.04 for JAVAD receiver
    
 2019/06/07
    1. Change BDS-3 PCO value
@@ -412,4 +412,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    2. Fix bug in reading RINEX 2 observation file
    
    3. Change ionosphere covariance in single frequency SPP or Graphic PPP
+   
+
+2019/07/05
+   1. Fix bug of triple-frequency PPP
+   
+   2. Fix bug of forward+backward combined RTK
+   
    
