@@ -417,6 +417,8 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2019/07/05
    1. Fix bug of triple-frequency PPP
    
-   2. Fix bug of forward+backward combined RTK
+
+2019/07/18
+   1. Fix bug of Kalman Filter in RTK
    
-   
+   2. Delete incorrect BDS ephemeris
