@@ -21,7 +21,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
   
  2. Install Net_Diff
  
-    *a) If you have installed MATLAB or MATLAB Runtime version 9.2 (R2017a) in your computer.*
+    *a) If you have installed MATLAB R2017a or MATLAB Runtime version 9.2 (R2017a) in your computer.*
    
         Open /for_redistribution_files_only/ and click Net_Diff.exe
       
