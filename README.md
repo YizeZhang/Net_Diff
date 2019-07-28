@@ -431,7 +431,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2019/07/28
    1. Support DCB estimation
    
-   2. Surport net solution based on barycentric coordiante
+   2. Surport barycentric based net solution
    
    3. Fix bug of PPP-RTK(CLAS)
    
