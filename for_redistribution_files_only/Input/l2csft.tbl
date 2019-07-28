@@ -1,0 +1,9 @@
+Quarter-Cycle Phase Shifts Table                              2012/11/01
+------------------------------------------------------------------------
+RECEIVER TYPE        BIAS
+******************** **********************
+JAVAD TRE_G3T DELTA                0.25  
+Trimble NetR9                     -0.00  
+TPS NETG3                         -0.25  
+TPS NETG5                          0.25  
+NovAtel OEM6                      -0.25  

@@ -1,0 +1,52 @@
+Inter System Bias Table                                                 
+----------------------------------------------------------------------
+RECEIVER TYPE        RECEIVER TYPE (BASE) S F O               BIAS(ns)
+******************** ******************** * * * **********************
+TPS NETG3            CLAS                 G 1 P            0.000000000
+TPS NETG3            CLAS                 G 2 P            0.000000000
+TPS NETG3            CLAS                 G 1 L            0.000000000
+TPS NETG3            CLAS                 G 2 L            0.000000000
+TPS NETG3            CLAS                 J 1 P            0.000000000
+TPS NETG3            CLAS                 J 2 P            0.000000000
+TPS NETG3            CLAS                 J 1 L            0.000000000
+TPS NETG3            CLAS                 J 2 L            0.000000000
+TPS NETG5            CLAS                 G 1 P            0.000000000
+TPS NETG5            CLAS                 G 2 P            0.000000000
+TPS NETG5            CLAS                 G 1 L            0.000000000
+TPS NETG5            CLAS                 G 2 L            0.000000000
+TPS NETG5            CLAS                 J 1 P            3.335640952
+TPS NETG5            CLAS                 J 2 P            0.000000000
+TPS NETG5            CLAS                 J 1 L            0.000000000
+TPS NETG5            CLAS                 J 2 L            0.000000000
+Trimble NetR9        CLAS                 G 1 P            0.000000000
+Trimble NetR9        CLAS                 G 2 P            0.000000000
+Trimble NetR9        CLAS                 G 1 L            0.000000000
+Trimble NetR9        CLAS                 G 2 L            0.000000000
+Trimble NetR9        CLAS                 J 1 P           -4.369897330
+Trimble NetR9        CLAS                 J 2 P          -11.340486950
+Trimble NetR9        CLAS                 J 1 L            0.000000000
+Trimble NetR9        CLAS                 J 2 L            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 G 1 P            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 G 2 P            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 G 1 L            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 G 2 L            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 J 1 P            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 J 2 P            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 J 1 L            0.000000000
+JAVAD TRE_G3T DELTA  CLAS                 J 2 L            0.000000000
+Trimble NetR9_1n     CLAS                 G 1 P            0.000000000
+Trimble NetR9_1n     CLAS                 G 2 P            0.000000000
+Trimble NetR9_1n     CLAS                 G 1 L            0.000000000
+Trimble NetR9_1n     CLAS                 G 2 L            0.000000000
+Trimble NetR9_1n     CLAS                 J 1 P           -4.669897330
+Trimble NetR9_1n     CLAS                 J 2 P          -11.340486950
+Trimble NetR9_1n     CLAS                 J 1 L            0.000000000
+Trimble NetR9_1n     CLAS                 J 2 L            0.000000000
+Trimble NetR9_2n     CLAS                 G 1 P            0.000000000
+Trimble NetR9_2n     CLAS                 G 2 P            0.000000000
+Trimble NetR9_2n     CLAS                 G 1 L            0.000000000
+Trimble NetR9_2n     CLAS                 G 2 L            0.000000000
+Trimble NetR9_2n     CLAS                 J 1 P           -4.669897330
+Trimble NetR9_2n     CLAS                 J 2 P          -12.340486950
+Trimble NetR9_2n     CLAS                 J 1 L            0.000000000
+Trimble NetR9_2n     CLAS                 J 2 L            0.000000000
