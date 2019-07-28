@@ -422,3 +422,21 @@ It also provides some useful tools such as time and coordinate system transfer, 
    1. Fix bug of Kalman Filter in RTK
    
    2. Delete incorrect BDS ephemeris
+
+   
+
+---
+###     **V1.9**
+
+2019/07/28
+   1. Support DCB estimation
+   
+   2. Surport net solution based on barycentric coordiante
+   
+   3. Fix bug of PPP-RTK(CLAS)
+   
+   4. Support CLASLIB
+   
+   
+   
+   
