@@ -437,6 +437,21 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Support CLASLIB
    
+ 
+2019/10/19
+   1. Seperate GPS and QZSS in RTK
    
+   2. Fix bug of satellite velocity in SSR based PPP
+   
+   3. Change BDS PCO
+   
+   4. Fix bug of PPP ambiguity re-initialization in outlier detection
+   
+   5. Fix bug of cycle slip detection in P1L1 method
+   
+   6. Fix bug of initial coordinate error in Bancroft
+   
+   7. Fix bug of ionosphere estimation when only psudo-range observation
+     
    
    
