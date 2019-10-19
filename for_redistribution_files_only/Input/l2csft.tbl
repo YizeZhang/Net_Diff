@@ -4,6 +4,9 @@ RECEIVER TYPE        BIAS
 ******************** **********************
 JAVAD TRE_G3T DELTA                0.25  
 Trimble NetR9                     -0.00  
+Trimble SPS855                    -0.00   
 TPS NETG3                         -0.25  
 TPS NETG5                          0.25  
 NovAtel OEM6                      -0.25  
+Leica                             -0.25
+Septentrio                         0.25
