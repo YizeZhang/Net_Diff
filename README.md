@@ -453,5 +453,14 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    7. Fix bug of ionosphere estimation when only psudo-range observation
      
+  
+2019/11/22
+   1. Fix bugs of tgd correction in usign BDS B1c and B2a signal
    
+   2. Fix bug of reading RINEX observation data when clock offset is larger than 0.01 s
    
+   3. Fix bug of BeiDou satellite type classification
+   
+   4. Change QZSS PCO when using gbm products
+   
+   5. Fix bug of ionosphere output
