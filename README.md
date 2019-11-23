@@ -459,8 +459,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    2. Fix bug of reading RINEX observation data when clock offset is larger than 0.01 s
    
-   3. Fix bug of BeiDou satellite type classification
+   3. Fix bug of BDS satellite type classification
    
-   4. Change QZSS PCO when using gbm products
+   4. Change BDS maximum satellite PRN to 38
    
-   5. Fix bug of ionosphere output
+   5. Change QZSS PCO when using gbm products
+   
+   6. Fix bug of ionosphere output
