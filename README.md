@@ -466,3 +466,6 @@ It also provides some useful tools such as time and coordinate system transfer, 
    5. Change QZSS PCO when using gbm products
    
    6. Fix bug of ionosphere output
+   
+   7. Fix bug of receiving RTCM message
+   
