@@ -6,7 +6,9 @@ It supports functions of SPP/PPP/DSPP/DPPP/RTK/PPP-RTK, it can also applied in S
 
 It supports data analysis, including coordinate plotting, positioning error comparison, satellite number, PDOP, satellite skyview, satellite visibility, cycleslip, troposphere, ionosphere, observation minus correction, positioning residuals and so on.
  
-It provides IGS data and products download.
+It provides IGS data and products download. 
+
+It can also support orbit simulation.
 
 It also provides some useful tools such as time and coordinate system transfer, RINEX edit, RTCM3 and raw data convert, RTCM3 receiving.
 
@@ -455,7 +457,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
      
   
 2019/11/22
-   1. Fix bugs of tgd correction in usign BDS B1c and B2a signal
+   1. Fix bugs of tgd correction in using BDS B1c and B2a signal
    
    2. Fix bug of reading RINEX observation data when clock offset is larger than 0.01 s
    
@@ -468,4 +470,15 @@ It also provides some useful tools such as time and coordinate system transfer, 
    6. Fix bug of ionosphere output
    
    7. Fix bug of receiving RTCM message
+   
+
+---
+###     **V1.10**
+
+2019/12/07
+   1. Support satellite orbit simulation
+   
+   2. Surport ublox for PPP-RTK(CLAS) (Tolerance of time difference and Galileo E5b)
+   
+   3. Fix bugs of plotting
    
