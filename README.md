@@ -10,7 +10,7 @@ It provides IGS data and products download.
 
 It can also support orbit simulation.
 
-It also provides some useful tools such as time and coordinate system transfer, RINEX edit, RTCM3 and raw data convert, RTCM3 receiving.
+It also provides some useful tools such as time and coordinate system transfer, RINEX edit, RTCM3 and raw data convert, Ntrip data receiving.
 
 
 *****************************************************************************************************
@@ -23,7 +23,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
   
  2. Install Net_Diff
  
-    *a) If you have installed MATLAB R2017a or MATLAB Runtime version 9.2 (R2017a) in your computer.*
+    *a) If you have installed MATLAB R2017a or MATLAB Runtime version 9.2 (R2017a) on your computer.*
    
         Open /for_redistribution_files_only/ and click Net_Diff.exe
       
@@ -51,7 +51,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 * As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
 
+* The document "A Comparison of Net_Diff and RTKLIB.pdf" compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
+
 * Source code is under the src branch.
+
+* Tips for update: If you have installed Net_Diff, for the updated version, you only need to repleace the updated files in *for_redistribution_files_only/*
 
 ***
 *If you have any questions or problems in using Net_Diff, please contact me: zhyize@163.com*
