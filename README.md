@@ -49,9 +49,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
 ***
 * When use the software, please open it from execute file, not from Windows Start.    
 
-* As for the use of Net_Diff, please refer to the guide document "A guide to use Net_Diff.pdf".
+* As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
 
-* The document "A Comparison of Net_Diff and RTKLIB.pdf" compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
+* The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
 
 * Source code is under the src branch.
 
