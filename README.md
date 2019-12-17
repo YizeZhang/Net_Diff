@@ -57,10 +57,10 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 * 4. Source code is under the src branch.
 
-* 5. Upate: If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
+* 5. Update: If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
 
 ***
-*If you have any questions or problems in using Net_Diff, please contact me: zhyize@163.com*
+*If you have any questions or problems in using Net_Diff, please contact me (Email: zhyize@163.com) or leave a message on github.*
 
 
 ***
