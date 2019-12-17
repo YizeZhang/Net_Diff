@@ -47,15 +47,17 @@ It also provides some useful tools such as time and coordinate system transfer, 
     Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
 ***
-* When use the software, please open it from execute file, not from Windows Start.    
+## Tips:
 
-* As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
+* 1. When using the software, please open it from the execute file, not from the Windows Start.    
 
-* The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
+* 2. As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
 
-* Source code is under the src branch.
+* 3. The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
 
-* Tips for update: If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
+* 4. Source code is under the src branch.
+
+* 5. Upate: If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
 
 ***
 *If you have any questions or problems in using Net_Diff, please contact me: zhyize@163.com*
@@ -482,7 +484,14 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2019/12/07
    1. Support satellite orbit simulation
    
-   2. Surport ublox for PPP-RTK(CLAS) (Tolerance of time difference and Galileo E5b)
+   2. Surport ublox for PPP-RTK(CLAS) (Tolerance of time difference and support Galileo E5b)
    
-   3. Fix bugs of plotting
+   3. Fix bug of figure plotting
+
+2019/12/17   
+   1. Support Galileo E5 signal in PPP-RTK(CLAS)
+   
+   2. Improve in handing cycle slip and outlier detection
+   
+   3. Change maximum BDS satellite PRN to 40
    
