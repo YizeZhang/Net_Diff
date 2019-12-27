@@ -57,7 +57,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
 
 * 4. Source code is under the src branch.
 
-* 5. Update: If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
+* 5. If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
 
 ***
 *If you have any questions or problems in using Net_Diff, please contact me (Email: zhyize@163.com) or leave a message on github.*
@@ -494,4 +494,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
    2. Improve in handing cycle slip and outlier detection
    
    3. Change maximum BDS satellite PRN to 40
+   
+2019/12/28   
+   1. Support GBM new product downloading and BDS-3 PPP based on them.
+   
+   2. Fix bug of approximate estimation.
+   
+   3. Fix bug of BDS-3 satellite attitude mode.
    
