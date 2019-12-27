@@ -496,9 +496,12 @@ It also provides some useful tools such as time and coordinate system transfer, 
    3. Change maximum BDS satellite PRN to 40
    
 2019/12/28   
-   1. Support GBM new product downloading and BDS-3 PPP based on them.
+   1. Support GBM new product downloading and BDS-3 PPP based on it.
    
-   2. Fix bug of approximate estimation.
+   2. Fix bug of BDS-3 satellite attitude mode.
    
-   3. Fix bug of BDS-3 satellite attitude mode.
+   3. Fix bug of approximate coordinateestimation.
+   
+   4. Fix bug in tightly combined RTK
+   
    
