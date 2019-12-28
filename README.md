@@ -498,10 +498,11 @@ It also provides some useful tools such as time and coordinate system transfer, 
 2019/12/28   
    1. Support GBM new product downloading and BDS-3 PPP based on it.
    
-   2. Fix bug of BDS-3 satellite attitude mode.
+   2. Fix bug of BDS-3 satellite data/pilot observation, attitude mode and PCO correction.
    
    3. Fix bug of approximate coordinateestimation.
    
    4. Fix bug in tightly combined RTK
+   
    
    
