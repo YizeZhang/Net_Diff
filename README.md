@@ -60,6 +60,9 @@ It also provides some useful tools such as time and coordinate system transfer, 
 * 5. If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
 
 ***
+## IMPORTANT NOTE:
+The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To avoid error after that epoch, we update the planet file in the *Input* directory, which is valid during 1999.12.24~2040.1.7. Please update this file or re-install the software if you want to process the data after 2020.1.16.
+
 *If you have any questions or problems in using Net_Diff, please contact me (Email: zhyize@163.com) or leave a message on github.*
 
 
@@ -504,5 +507,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
    
    4. Fix bug in tightly combined RTK
    
+2020/01/03
+   1. Fix bug of valid period of the Planet ephemeris file
    
    
