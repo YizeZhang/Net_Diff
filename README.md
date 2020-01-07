@@ -503,11 +503,14 @@ The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To 
    
    2. Fix bug of BDS-3 satellite data/pilot observation, attitude mode and PCO correction.
    
-   3. Fix bug of approximate coordinateestimation.
+   3. Fix bug of approximate coordinate estimation.
    
    4. Fix bug in tightly combined RTK
    
 2020/01/03
    1. Fix bug of valid period of the Planet ephemeris file
+   
+2020/01/08
+   1. Modify GUI for easier and friendier use.
    
    
