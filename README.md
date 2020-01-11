@@ -510,7 +510,12 @@ The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To 
 2020/01/03
    1. Fix bug of valid period of the Planet ephemeris file
    
-2020/01/08
+2020/01/11
    1. Modify GUI for easier and friendier use.
+   
+   2. Fix bug of ephemeris matching
+   
+   3. Add observation data type of GPS
+   
    
    
