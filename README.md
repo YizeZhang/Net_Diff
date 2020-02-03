@@ -516,6 +516,17 @@ The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To 
    2. Fix bug of ephemeris matching
    
    3. Add observation data type of GPS
+         
+2020/02/03
+   1. Fix DCB bug for BDS-3 new signals
    
+   2. Fix bug of outlier detection in uncombined PPP
    
+   3. Support different ionosphere-free triple-frequency PPP
+   
+   4. Add B1I combined frequency for BDS-3
+   
+   5. Fix bug in bancroft
+   
+   6. Fix bug in SSR-based PPP
    
