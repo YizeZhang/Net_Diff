@@ -528,5 +528,9 @@ The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To 
    
    5. Fix bug in bancroft
    
-   6. Fix bug in SSR-based PPP
+   6. Fix bug in SSR-based PPP   
+         
+2020/02/10
+   1. Fix bug of ocean load correction
    
+   2. Add ssr to osr and RINEX in CLAS
