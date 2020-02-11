@@ -42,7 +42,7 @@ It also provides some useful tools such as time and coordinate system transfer, 
       
         !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other drive!!!!!!!!!
       
-  3. Complete Full Installation
+  3. Complete full installation
   
     Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
 
@@ -530,7 +530,9 @@ The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To 
    
    6. Fix bug in SSR-based PPP   
          
-2020/02/10
+2020/02/11
    1. Fix bug of ocean load correction
    
    2. Add ssr to osr and RINEX in CLAS
+   
+   3. Change maximum BDS satellite PRN to 46
