@@ -62,7 +62,7 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 
 * 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\ Net_Diff\application\.
 
-* 4. As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
+* 4. As for the use of Net_Diff, please refer to the help document *"A guide to use Net_Diff.pdf"*.
 
 * 5. The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
 
@@ -539,3 +539,9 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    2. Add ssr to osr and RINEX in CLAS
    
    3. Change maximum BDS satellite PRN to 46
+
+2020/02/20
+   1. Fix bugs of DCB corrrection, observation, clock correction, and satellite PRN for BDS3
+   
+   2. Update the help document
+   
