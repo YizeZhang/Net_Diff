@@ -2,15 +2,17 @@
 
 Net_Diff is a software for GNSS Download, Positioning and Analysis.
 
-It supports functions of SPP/PPP/DSPP/DPPP/RTK/PPP-RTK, it can also applied in SPP/PPP with BeiDou augmentation information.
+It enables users to perform SPP/PPP/PPP-AR/DSPP/DPPP/RTK/PPP-RTK. All the signals of the current GPS/GLONASS/BeiDou/Galileo/QZSS/IRNSS are supported from single-frequency to triple-frequency. It can also be applied in SPP/PPP with BeiDou augmentation information (authorized user).
 
-It supports data analysis, including coordinate plotting, positioning error comparison, satellite number, PDOP, satellite skyview, satellite visibility, cycleslip, troposphere, ionosphere, observation minus correction, positioning residuals and so on.
+It supports data analysis, including coordinate plotting, coordinate comparison, satellite number, PDOP, satellite skyview, satellite visibility, cycleslip, troposphere, ionosphere, observation minus correction, positioning residuals plotting and KML file writing.
  
-It provides IGS data and products download. 
+It provides IGS data and products download from many public FTP servers.
 
-It can also support orbit simulation.
+It also provides some useful tools such as time and coordinate system transferring, RTCM data receiving through Ntrip and TCP/IP, RTCM converting, RINEX editing, ssr dumping, CLALIB and so on.
 
-It also provides some useful tools such as time and coordinate system transfer, RINEX edit, RTCM3 and raw data convert, Ntrip data receiving.
+It provides a simple satellite orbit simulation.
+
+Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
 
 *****************************************************************************************************
@@ -38,32 +40,30 @@ It also provides some useful tools such as time and coordinate system transfer, 
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
-        After finish installing, you can find the execute file from the installed program directory, like C:\Program Files\Net_Diff\application\. 
+        As space is not allowed for the directory of EOP file, so please do not install Net_Diff under a directory that contains space, such as C:\Program Files\. After finish installing, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
       
-        !!!!!!!If your Windows OS is under C:\, Net_Diff may can’t read and write files under C:\. In this case, it is recommended to copy C:\Program Files\Net_Diff\application\ to other drive!!!!!!!!!
-      
-  3. Complete full installation
+  3. Set environment variables
   
-    Copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to the directory of Net_Diff GUI.
+    This step is to automatically unzip the downloaded file and convert the crx file to rinex file if you want to download or update files in Net_Diff. To do this, please add the path of gzip.exe (C:\Program Files (x86)\GnuWin32\bin\) and crx2rnx.exe (C:\Net_Diff\application\) to the PATH of system environment variables on your computer:
+    
+         My computer-->Properties-->Advanced system setting-->Environment variables-->Edit the PATH environment variable-->Add path
+    
+    If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
 
 ***
 ## Tips:
 
-* 1. When using the software, please open it from the execute file, not from the Windows Start.    
+* 1. If you run Net_Diff from the Windows Start or Desktop, please select the correct directory of the EOP file, Ant File and GLO%Leap file in the Input folder (C:\Net_Diff\application\Input) every time. Therefore, it is recommended to run Net_Diff from the execute file (You can also copy the folder of C:\Net_Diff\application to any other directories).
 
-* 2. As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
+* 2. If the directory of Net_Diff.exe is not allowed to write files, try to run Net_Diff.exe from the administrator.
 
-* 3. The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
+* 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\ Net_Diff\application\.
 
-* 4. Source code is under the src branch.
+* 4. As for the use of Net_Diff, please refer to the guide document *"A guide to use Net_Diff.pdf"*.
 
-* 5. If you have installed Net_Diff, for the updated version, you only need to replace the updated files in *for_redistribution_files_only/*
+* 5. The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
 
-***
-## IMPORTANT NOTE:
-The valid last epoch of the planet ephemeris file *Planet.bin* is 2020.1.16. To avoid error after that epoch, we update the planet file in the *Input* directory, which is valid during 1999.12.24~2040.1.7. Please update this file or re-install the software if you want to process the data after 2020.1.16.
-
-*If you have any questions or problems in using Net_Diff, please contact me (Email: zhyize@163.com) or leave a message on github.*
+* 6. Source code is under the src branch.
 
 
 ***
