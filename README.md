@@ -44,11 +44,14 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
       
   3. Set environment variables
   
-    This step is to automatically unzip the downloaded file and convert the crx file to rinex file if you want to download or update files in Net_Diff. To do this, please add the path of gzip.exe (C:\Program Files (x86)\GnuWin32\bin\) and crx2rnx.exe (C:\Net_Diff\application\) to the PATH of system environment variables on your computer:
+         This step is to automatically unzip the downloaded file and convert the crx file to rinex file if you want to download or update files in Net_Diff. 
+         
+         To do this, please add the path of gzip.exe (C:\Program Files (x86)\GnuWin32\bin\) and crx2rnx.exe (C:\Net_Diff\application\) to the PATH of system environment variables on your computer:
     
-    My computer-->Properties-->Advanced system setting-->Environment variables-->Edit the PATH environment variable-->Add path
+         My computer-->Properties-->Advanced system setting-->Environment variables-->Edit the PATH environment variable-->Add path
     
-    If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
+         If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. 
+         When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
 
 ***
 ## Tips:
