@@ -8,7 +8,7 @@ It supports data analysis, including coordinate plotting, coordinate comparison,
  
 It provides IGS data and products download from many public FTP servers.
 
-It also provides some useful tools such as time and coordinate system transferring, RTCM data receiving through Ntrip and TCP/IP, RTCM converting, RINEX editing, ssr dumping, CLALIB and so on.
+It also provides some useful tools such as time and coordinate system transferring, RTCM data receiving through Ntrip and TCP/IP, raw data converting, RINEX editing, ssr dumping, CLALIB and so on.
 
 It provides a simple satellite orbit simulation.
 
