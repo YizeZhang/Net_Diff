@@ -540,8 +540,10 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    
    3. Change maximum BDS satellite PRN to 46
 
-2020/02/20
+2020/02/22
    1. Fix bugs of DCB corrrection, observation, clock correction, and satellite PRN for BDS3
    
-   2. Update the help document
+   2. Add option of BDS GEO AR
+   
+   3. Update the help document
    
