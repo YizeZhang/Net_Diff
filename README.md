@@ -547,3 +547,6 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    
    3. Update the help document
    
+2020/02/26
+   1. Enable GEO satellite of BDS3
+   
