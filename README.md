@@ -6,7 +6,7 @@ It enables users to perform SPP/PPP/PPP-AR/DSPP/DPPP/RTK/PPP-RTK. All the signal
 
 It supports data analysis, including coordinate plotting, coordinate comparison, satellite number, PDOP, satellite skyview, satellite visibility, cycleslip, troposphere, ionosphere, observation minus correction, positioning residuals plotting and KML file writing.
  
-It provides IGS data and products download from many public FTP servers.
+It provides GNS observation data and products download from many public FTP servers.
 
 It also provides some useful tools such as time and coordinate system transferring, RTCM data receiving through Ntrip and TCP/IP, raw data converting, RINEX editing, ssr dumping, CLALIB and so on.
 
