@@ -550,3 +550,6 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 2020/02/26
    1. Enable GEO satellite of BDS3
    
+2020/03/03
+   1. Support FCB from WHU for PPP-AR
+   
