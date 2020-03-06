@@ -549,10 +549,18 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    
 2020/02/26
    1. Enable GEO satellite of BDS3
+  
+---
+###     **V1.11**
+
+2020/03/06
+   1. Support moving baseline RTK
+    
+   2. Support FCB from WHU for PPP-AR
    
-2020/03/04
-   1. Support FCB from WHU for PPP-AR
+   3. Fix bug of PPP-RTK(CLAS)
    
-   2. Change constraint and walking step of ionosphere parameter in uncombined PPP
+   4. Change constraint and walking step of ionosphere parameter in uncombined PPP
    
+   5. Fix bug in reading high rate data (>1Hz)
    
