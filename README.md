@@ -564,3 +564,8 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    
    5. Fix bug in reading high rate data (>1Hz)
    
+2020/03/10
+   1. Allow space among observation file name
+    
+   2. Fix bug when input approximate coordinate is wrong
+   
