@@ -568,4 +568,9 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    1. Allow space among observation file name
     
    2. Fix bug when input approximate coordinate is wrong
-   
+      
+2020/03/12
+   1. Support SSR file from BNC
+    
+   2. Support PPP-AR based on ionosphere-free combination
+
