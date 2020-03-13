@@ -569,8 +569,10 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
     
    2. Fix bug when input approximate coordinate is wrong
       
-2020/03/12
+2020/03/13
    1. Support SSR file from BNC
     
    2. Support ionosphere-free combination based RTK and PPP_AR
+   
+   3. Fix bug of L5 frequency-related GPS PPP
 
