@@ -572,5 +572,5 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 2020/03/12
    1. Support SSR file from BNC
     
-   2. Support PPP-AR based on ionosphere-free combination
+   2. Support ionosphere-free combination based RTK and PPP_AR
 
