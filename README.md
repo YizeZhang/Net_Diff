@@ -388,7 +388,7 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 ###     **V1.8**
     
 2019/04/15
-   1. Support SSR correction in SPP/PPP
+   1. Support SSR correction based SPP/PPP
    
    2. Support receive RTCM message from Ntrip (Adapt from goGPS)
    
@@ -570,9 +570,14 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
    2. Fix bug when input approximate coordinate is wrong
       
 2020/03/13
-   1. Support SSR file from BNC
+   1. Support format of SSR file from BNC
     
    2. Support ionosphere-free combination based RTK and PPP_AR
    
    3. Fix bug of L5 frequency-related GPS PPP
 
+---
+###     **V1.12**
+
+2020/03/23
+   1. Support triple-frequency RTK/PPP-AR
