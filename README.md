@@ -14,7 +14,7 @@ It provides a simple satellite orbit simulation.
 
 Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
-(https://github.com/YizeZhang/Net_Diff/blob/master/for_redistribution_files_only/splash.jpg)
+![Net_Diff_splash](https://github.com/YizeZhang/Net_Diff/blob/master/for_redistribution_files_only/splash.jpg)
 
 
 *****************************************************************************************************
