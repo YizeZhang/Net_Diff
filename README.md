@@ -14,6 +14,8 @@ It provides a simple satellite orbit simulation.
 
 Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
+(https://github.com/YizeZhang/Net_Diff/blob/master/for_redistribution_files_only/splash.jpg)
+
 
 *****************************************************************************************************
 ## How to install:
@@ -68,6 +70,8 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 
 * 6. Source code is under the src branch.
 
+
+For any problems or sugestions in using Net_Diff, please contact me: Yize Zhang, zhyize@163.com
 
 ***
 
