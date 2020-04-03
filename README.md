@@ -42,7 +42,7 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
-        As space is not allowed for the directory of EOP file, so please do not install Net_Diff under a directory that contains space, such as C:\Program Files\. After finish installing, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
+        As space is not allowed while uncomressing the downloaded files, so it is better not to install Net_Diff under a directory that contains space, such as C:\Program Files\. After finish installing, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
       
   3. Set environment variables
   
@@ -71,7 +71,7 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
 * 6. Source code is under the src branch.
 
 
-For any problems or sugestions in using Net_Diff, please contact me: Yize Zhang, zhyize@163.com
+For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.com) or leave a message on GitHub
 
 ***
 
@@ -585,3 +585,6 @@ For any problems or sugestions in using Net_Diff, please contact me: Yize Zhang,
 
 2020/03/23
    1. Support triple-frequency RTK/PPP-AR
+  
+2020/04/03 
+   1. Fix bug in reading the time of the first epoch and the antenna file
