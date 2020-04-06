@@ -586,5 +586,9 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
 2020/03/23
    1. Support triple-frequency RTK/PPP-AR
   
-2020/04/03 
+2020/04/06
    1. Fix bug in reading the time of the first epoch and the antenna file
+   
+   2. Downweight observation during satellite eclipse period
+   
+   
