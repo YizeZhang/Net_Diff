@@ -586,11 +586,12 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
 2020/03/23
    1. Support triple-frequency RTK/PPP-AR
   
-2020/04/06
+2020/04/07
    1. Fix bug in reading the time of the first epoch and the antenna file
    
    2. Downweight observation during satellite eclipse period in PPP
    
    3. Automatically change to long baseline RTK mode when baseline length exceeds 30km
    
+   4. Fix bug of cycle slip in forward+backward mode
    
