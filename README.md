@@ -591,4 +591,6 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    2. Downweight observation during satellite eclipse period in PPP
    
+   3. Automatically change to long baseline RTK mode when baseline length larger than 30km
+   
    
