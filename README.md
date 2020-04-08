@@ -595,3 +595,5 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    4. Fix bug of cycle slip in forward+backward mode
    
+   5. Add tropospheric delay model of SHAtropE
+   
