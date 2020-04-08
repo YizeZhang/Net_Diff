@@ -39,6 +39,8 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
         
         It will take a few minutes to download MATLAB Runtime, please be patient.
         
+        If error occurs in connecting MathWorks, try to rerun the installer, or check the firewall, proxy server or virus scanner settings.
+        
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
