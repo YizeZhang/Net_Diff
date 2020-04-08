@@ -44,7 +44,8 @@ Moreover, it supports multi-station PPP, clock estimation, DCB estimation based 
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
-        As space is not allowed while uncomressing the downloaded files, so it is better not to install Net_Diff under a directory that contains space, such as C:\Program Files\. After finish installing, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
+        As space is not allowed while uncomressing the downloaded files, so it is better not to install Net_Diff under a directory that contains space, such as C:\Program Files\. 
+        After finish installing, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
       
   3. Set environment variables
   
