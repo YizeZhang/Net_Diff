@@ -14,6 +14,13 @@ It provides a simple satellite orbit simulation.
 
 Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
+
+We also provide online PPP/RTK Service:
+
+ http://www.shao.ac.cn/shao_gnss_ac/
+ 
+ http://129.211.69.159:8090/Main.aspx
+ 
 ![Net_Diff_splash](https://github.com/YizeZhang/Net_Diff/blob/master/for_redistribution_files_only/splash.jpg)
 
 
@@ -79,9 +86,6 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
 ***
 
 <br/>
-Online PPP/RTK Service:
- http://www.shao.ac.cn/shao_gnss_ac/
- http://129.211.69.159:8090/Main.aspx
 <br/>  
 
 ## Revision History:
