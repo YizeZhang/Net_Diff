@@ -79,6 +79,9 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
 ***
 
 <br/>
+Online PPP/RTK Service:
+ http://www.shao.ac.cn/shao_gnss_ac/
+ http://129.211.69.159:8090/Main.aspx
 <br/>  
 
 ## Revision History:
