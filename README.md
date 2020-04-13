@@ -81,7 +81,7 @@ We also provide online PPP/RTK Service:
 * 6. Source code is under the src branch.
 
 
-For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.com) or leave a message on GitHub
+For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.com) or join the QQ group: 838636621
 
 ***
 
