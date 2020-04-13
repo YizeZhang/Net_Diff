@@ -606,5 +606,9 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    4. Fix bug of cycle slip in forward+backward mode
    
    5. Add tropospheric delay model of SHAtropE
+ 
+2020/04/13 
+   1. Support output of receiver clock
    
+   2. Fix bug of installation directory restriction
    
