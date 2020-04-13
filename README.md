@@ -14,7 +14,7 @@ It provides a simple satellite orbit simulation.
 
 Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
-If you have problem in downloading Net_Diff, it is probably due to the Great Fire Wall (https://sardingfish.top/2020/04/11/GithubDownload/). In this case, you can turn to here for doanloading: http://www.shao.ac.cn/shao_gnss_ac/
+If you have problem in downloading Net_Diff, it is probably due to the Great Fire Wall (https://sardingfish.top/2020/04/11/GithubDownload/). In this case, you can turn to here for downloading: http://www.shao.ac.cn/shao_gnss_ac/
 
 
 We also provide online PPP/RTK Service:
