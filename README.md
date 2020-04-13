@@ -14,6 +14,8 @@ It provides a simple satellite orbit simulation.
 
 Moreover, it supports multi-station PPP, clock estimation, DCB estimation based on GNSS net (authorized user).
 
+If you have problem in downloading Net_Diff, it is probably due to the Great Fire Wall (https://sardingfish.top/2020/04/11/GithubDownload/). In this case, you can trun to here: http://www.shao.ac.cn/shao_gnss_ac/
+
 
 We also provide online PPP/RTK Service:
 
@@ -72,7 +74,7 @@ We also provide online PPP/RTK Service:
 
 * 2. If the directory of Net_Diff.exe is not allowed to write files, try to run Net_Diff.exe from the administrator.
 
-* 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\ Net_Diff\application\.
+* 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\ Net_Diff\application\. The updated files can also be found under the "release" tag.
 
 * 4. As for the use of Net_Diff, please refer to the help document *"A guide to use Net_Diff.pdf"*.
 
