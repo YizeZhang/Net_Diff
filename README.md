@@ -53,28 +53,27 @@ We also provide online PPP/RTK Service:
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
-        As space is not allowed while uncomressing the downloaded files, it is better not to install Net_Diff under a directory that contains space, such as C:\Program Files\. 
-        After installationg, you can find the execute file from the installed program directory, for example C:\Net_Diff\application\. 
+        After installationg, you can find the execute file from the installed program directory, for example C:\Program Files\Net_Diff\application\. 
       
   3. Set environment variables
   
          This step is to automatically unzip the downloaded file and convert the crx file to rinex file if you want to download or update files in Net_Diff. 
          
-         To do this, please add the path of gzip.exe (C:\Program Files (x86)\GnuWin32\bin\) and crx2rnx.exe (C:\Net_Diff\application\) to the PATH of system environment variables on your computer:
+         To do this, please add the path of gzip.exe (C:\Program Files (x86)\GnuWin32\bin\) and crx2rnx.exe (C:\Program Files\Net_Diff\application\) to the PATH of system environment variables on your computer:
     
          My computer-->Properties-->Advanced system setting-->Environment variables-->Edit the PATH environment variable-->Add path
     
-         If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. 
-         When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
+         If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Program Files\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. 
+         When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Program Files\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
 
 ***
 ## Tips:
 
-* 1. If you run Net_Diff from the Windows Start or Desktop, please select the correct directory of the EOP file, Ant File and GLO%Leap file in the Input folder (C:\Net_Diff\application\Input) every time. Therefore, it is recommended to run Net_Diff from the execute file (You can also copy the folder of C:\Net_Diff\application to any other directories).
+* 1. If you run Net_Diff from the Windows Start or Desktop, please select the correct directory of the EOP file, Ant File and GLO&Leap file in the Input folder (C:\Program Files\Net_Diff\application\Input) every time. Therefore, it is recommended to run Net_Diff from the execute file (You can also copy the folder of C:\Program Files\Net_Diff\application to any other directories).
 
 * 2. If the directory of Net_Diff.exe is not allowed to write files, try to run Net_Diff.exe from the administrator.
 
-* 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\ Net_Diff\application\. The updated files can also be found under the "release" tag.
+* 3. When updating Net_Diff, you only need to copy the updated files in for_redistribution_files_only/ to C:\Program Files\Net_Diff\application\. The updated files can also be found under the "release" tag.
 
 * 4. As for the use of Net_Diff, please refer to the help document *"A guide to use Net_Diff.pdf"*.
 
@@ -611,6 +610,15 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
  
 2020/04/13 
    1. Support output of receiver clock
+     
+2020/04/21
+   1. Support intallation directory that contains space
    
-   2. Fix bug of installation directory restriction
+   2. Fix bugs of GUI
+   
+   3. Support track plotting with Google Map (API key needed)
+   
+   4. Improved partial AR
+   
+   5. Support post-processed CNES products for PPP-AR
    
