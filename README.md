@@ -612,7 +612,7 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    1. Support output of receiver clock
      
 2020/04/21
-   1. Support intallation directory that contains space
+   1. Support installation directory that contains space
    
    2. Fix bugs of GUI
    
