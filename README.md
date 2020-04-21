@@ -616,7 +616,7 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    2. Fix bugs of GUI
    
-   3. Support track plotting with Google Map (API key needed)
+   3. Support track plotting with Google Map (API key needed) (Please download from the release tag)
    
    4. Improved partial AR
    
