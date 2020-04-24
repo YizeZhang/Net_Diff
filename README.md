@@ -79,14 +79,12 @@ We also provide online PPP/RTK Service:
 
 * 5. The document *"A Comparison of Net_Diff and RTKLIB.pdf"* compares the performance of Net_Diff and RTKLIB for a better understanding of Net_Diff.
 
-* 6. Source code is under the src branch.
 
 
 For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.com) or join the QQ group: 838636621
 
 ***
 
-<br/>
 <br/>  
 
 ## Revision History:
@@ -621,4 +619,11 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    4. Improved partial AR
    
    5. Support post-processed CNES products for PPP-AR
+   
+2020/04/24
+   1. Fix bug of triple-frequency PPP-AR/RTK
+   
+   2. Fix bug of reading receiver antenna correction
+   
+   3. Fix bug of forward+backward mode
    
