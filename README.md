@@ -428,7 +428,7 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    2. Fix bug of undifferenced uncombined PPP in troposphere variance setting
    
-   3. Outtput total slant ionosphere delay rather than ionosphere correction
+   3. Output total slant ionosphere delay rather than ionosphere correction
    
    4. Resort broadcast ephemeris and delete dumplicated BDS ephemeris
    
@@ -620,7 +620,7 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    5. Support post-processed CNES products for PPP-AR
    
-2020/04/24
+2020/04/25
    1. Fix bug of triple-frequency PPP-AR/RTK
    
    2. Fix bug of reading receiver antenna correction
