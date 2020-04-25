@@ -627,3 +627,5 @@ For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.
    
    3. Fix bug of forward+backward mode
    
+   4. Fix bug of cycle slip for Android data
+   
