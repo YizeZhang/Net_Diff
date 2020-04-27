@@ -53,7 +53,7 @@ We also provide online PPP/RTK Service:
         If error occurs in downloading MATLAB Runtime 9.2, please download or update it by hand from:        
         https://ww2.mathworks.cn/products/compiler/matlab-runtime.html
         
-        After installationg, you can find the execute file from the installed program directory, for example C:\Program Files\Net_Diff\application\. 
+        After installation, you can find the execute file from the installed program directory, for example C:\Program Files\Net_Diff\application\. 
       
   3. Set environment variables
   
