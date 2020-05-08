@@ -81,7 +81,7 @@ We also provide online PPP/RTK Service:
 
 
 
-For any problems or sugestions in using Net_Diff, please contact me (zhyize@163.com) or join the QQ group: 838636621
+For any problems or suggestions in using Net_Diff, please contact me (zhyize@163.com) or join the QQ group: 838636621
 
 ***
 
