@@ -634,12 +634,12 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
 ---
 ###     **V1.13**
    
-2020/XX/XX
-   1. Support PPP-RTK correction service (Authorized)
+2020/XX/XX (To be released)
+   1. Support SSR generation for PPP-RTK (Authorized)
    
    2. Support fast PPP
    
-   3. Support AR fixed receiver clock
+   3. Support PPP-AR for time and frequency transfer (IPPP)
    
    4. Improve wide lane AR
    
@@ -648,4 +648,6 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    6. Fix bug of BDS B1c and B2a DCB correction in SSR based PPP
    
    7. Fix bug of approximate coordinate error
+   
+   8. Add explanation of output files
    
