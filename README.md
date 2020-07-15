@@ -634,12 +634,12 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
 ---
 ###     **V1.13**
    
-2020/XX/XX (To be released)
+2020/07/15
    1. Support SSR generation for PPP-RTK (Authorized)
    
    2. Support fast PPP
    
-   3. Support PPP-AR for time and frequency transfer (IPPP)
+   3. Support PPP-AR for time and frequency transfer (IPPP) (Authorized)
    
    4. Improve wide lane AR
    
