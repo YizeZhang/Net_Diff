@@ -1,0 +1,544 @@
+     1.4            M                                       ANTEX VERSION / SYST
+A                                                           PCV TYPE / REFANT   
+########################################################### COMMENT             
+BeiDou-3 MEO Satellite Antenna Phase Center Model           COMMENT             
+########################################################### COMMENT             
+                                                            COMMENT             
+Satellite-specific phase center offsets and block-specific  COMMENT             
+  phase center variations for first 18 BeiDou-3 MEO SVs     COMMENT             
+  - x- and y-offsets based on manufacturer information      COMMENT             
+  - z-offsets and phase center variations estimated from 14 COMMENT             
+    month of dual-frequency (L2I-L6I) tracking data with    COMMENT
+    scale fixed to IGS14/igs14.atx                          COMMENT
+                                                            COMMENT
+References:                                                 COMMENT             
+  Dilssner F, Schoenemann E, Mayer V, Springer T,           COMMENT             
+    Gonzalez F, Enderle W (2020) Recent Advances in Galileo COMMENT             
+    and BeiDou Orbit Determination. EGU 2020, May 04-08,    COMMENT             
+    Vienna, Austria                                         COMMENT   
+  CSNO (2019) BeiDou satellite metadata.                    COMMENT             
+    http://en.beidou.gov.cn/SYSTEMS/Officialdocument/       COMMENT             
+    201912/P020200323536112807882.atx                       COMMENT
+                                                            END OF HEADER       
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C19                 C201      2017-069A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -208.10     -2.70   2183.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -212.60     -0.90   2183.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY  
+   -208.10     -2.70   2183.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY    
+   C06                                                      START OF FREQUENCY  
+   -209.40      1.00   2183.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY    
+   C07                                                      START OF FREQUENCY  
+   -212.60     -0.90   2183.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C20                 C202      2017-069B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -218.70      1.00   2239.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -217.80      1.60   2239.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+   -218.70      1.00   2239.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -218.60      4.10   2239.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+   -217.80      1.60   2239.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C27                 C203      2018-003A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     27.41     -4.56   1517.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     27.53     -4.48   1517.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+     27.41     -4.56   1517.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     27.61     -4.39   1517.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+     27.53     -4.48   1517.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C28                 C204      2018-003B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     25.90     -4.70   1604.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     26.00     -4.74   1604.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY  
+     25.90     -4.70   1604.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY    
+   C06                                                      START OF FREQUENCY  
+     26.14     -4.83   1604.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY    
+   C07                                                      START OF FREQUENCY  
+     26.00     -4.74   1604.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C21                 C205      2018-018A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -210.84     -3.18   2211.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -215.49     -0.73   2211.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+   -210.84     -3.18   2211.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -214.69      0.43   2211.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+   -215.49     -0.73   2211.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C22                 C206      2018-018B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -208.85      0.83   2214.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -214.02      2.67   2214.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY  
+   C02                                                      START OF FREQUENCY
+   -208.85      0.83   2214.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -213.22      4.69   2214.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+   -214.02      2.67   2214.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY  
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C29                 C207      2018-029A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     28.38     -7.00   1673.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     28.76     -7.06   1673.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+     28.38     -7.00   1673.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     28.76     -5.81   1673.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+     28.76     -7.06   1673.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C30                 C208      2018-029B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     28.77     -5.69   1526.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     28.93     -5.70   1526.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY 
+   C02                                                      START OF FREQUENCY
+     28.77     -5.69   1526.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     28.95     -4.48   1526.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+     28.93     -5.70   1526.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY 
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C23                 C209      2018-062A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY
+   -209.63      3.36   2279.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY
+   C05                                                      START OF FREQUENCY
+   -208.46      4.99   2279.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+   -209.63      3.36   2279.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -209.63      6.37   2279.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY
+   -208.46      4.99   2279.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C24                 C210      2018-062B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY
+   -209.00      2.96   2339.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY
+   C05                                                      START OF FREQUENCY
+   -208.83      4.39   2339.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+   -209.00      2.96   2339.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -209.13      6.62   2339.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY
+   -208.83      4.39   2339.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C25                 C211      2018-067A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY
+     72.92     -5.08   1457.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY
+   C05                                                      START OF FREQUENCY
+     72.78     -5.00   1457.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+     72.92     -5.08   1457.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     72.92     -5.18   1457.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY
+     72.78     -5.00   1457.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C26                 C212      2018-067B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY
+     73.46     -3.52   1346.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY
+   C05                                                      START OF FREQUENCY
+     73.45     -0.38   1346.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY
+   C02                                                      START OF FREQUENCY
+     73.46     -3.52   1346.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     73.51     -3.55   1346.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY
+     73.45     -0.38   1346.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C32                 C213      2018-072A TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -185.01     -1.79   2334.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -185.36      0.59   2334.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY 
+   C02                                                      START OF FREQUENCY
+   -185.01     -1.79   2334.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -185.84      2.08   2334.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+   -185.36      0.59   2334.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY 
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C33                 C214      2018-072B TYPE / SERIAL NO    
+                    ESA                      0    10-Sep-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -187.25     -3.75   2382.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -185.29     -2.37   2382.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY 
+   C02                                                      START OF FREQUENCY
+   -187.25     -3.75   2382.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+   -186.13     -0.30   2382.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+   -185.29     -2.37   2382.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY 
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C34                 C215      2018-078B TYPE / SERIAL NO    
+                    ESA                      0    15-Oct-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     89.72     -9.33   1312.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     89.58     -9.27   1312.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY
+     89.72     -9.33   1312.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     89.72     -9.35   1312.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+     89.58     -9.27   1312.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-SECM      C35                 C216      2018-078B TYPE / SERIAL NO    
+                    ESA                      0    15-Oct-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+     89.40    -11.04   1460.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+     89.31    -10.93   1460.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY
+     89.40    -11.04   1460.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY
+   C06                                                      START OF FREQUENCY
+     89.50    -10.92   1460.00                              NORTH / EAST / UP
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY
+   C07                                                      START OF FREQUENCY  
+     89.31    -10.93   1460.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C36                 C218      2018-093A TYPE / SERIAL NO    
+                    ESA                      0    15-Oct-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -195.19     -9.66   2146.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -193.54     -9.29   2146.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY  
+   -195.19     -9.66   2146.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY    
+   C06                                                      START OF FREQUENCY  
+   -194.14     -6.72   2146.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY    
+   C07                                                      START OF FREQUENCY  
+   -193.54     -9.29   2146.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA      
+                                                            START OF ANTENNA    
+BEIDOU-3M-CAST      C37                 C219      2018-093B TYPE / SERIAL NO    
+                    ESA                      0    15-Oct-18 METH / BY / # / DATE
+     0.0                                                    DAZI                
+     0.0  13.0   1.0                                        ZEN1 / ZEN2 / DZEN  
+     5                                                      # OF FREQUENCIES    
+  2000    01    01     0     0    0.0000000                 VALID FROM
+ESA14_2018                                                  SINEX CODE          
+   C01                                                      START OF FREQUENCY  
+   -199.44    -10.42   2127.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C01                                                      END OF FREQUENCY    
+   C05                                                      START OF FREQUENCY  
+   -199.44     -9.97   2127.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C05                                                      END OF FREQUENCY    
+   C02                                                      START OF FREQUENCY  
+   -199.44    -10.42   2127.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C02                                                      END OF FREQUENCY    
+   C06                                                      START OF FREQUENCY  
+   -199.14     -7.53   2127.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C06                                                      END OF FREQUENCY    
+   C07                                                      START OF FREQUENCY  
+   -199.44     -9.97   2127.00                              NORTH / EAST / UP   
+   NOAZI    2.68    2.23    1.51    0.48   -0.22   -0.92   -1.56   -2.05   -2.24   -2.26   -1.85   -0.36    1.73    2.82
+   C07                                                      END OF FREQUENCY    
+                                                            END OF ANTENNA      

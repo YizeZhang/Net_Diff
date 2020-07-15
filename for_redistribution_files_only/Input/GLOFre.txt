@@ -1,5 +1,5 @@
 
-! Last updated: 2020  4 19
+! Last updated: 2020  7 14
 ++GLONASS Information++++++++++++++++++++++++++++++++++++++++++++++++
 * 
 2005 01 01
