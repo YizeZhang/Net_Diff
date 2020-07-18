@@ -650,4 +650,8 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    7. Fix bug of approximate coordinate error
    
    8. Add explanation of output files
+      
+2020/07/18
+   1. Add adaptive Kalman Filter in AR
    
+   2. Fix bug of GUI
