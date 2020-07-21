@@ -651,7 +651,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    8. Add explanation of output files
       
-2020/07/18
+2020/07/21
    1. Add adaptive Kalman Filter in AR
    
-   2. Fix bug of GUI
+   2. Add confidence level based AR
