@@ -655,3 +655,17 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    1. Add adaptive Kalman Filter in AR
    
    2. Add confidence level based AR
+
+---
+###     **V1.14**
+   
+2021/08/21
+   1.  Support running Net_Diff via command line
+
+   2.  Support precise clock file V3.04
+     
+   3.  Change data downloading to wget, which supports http.
+
+   4. Fix some other bugs
+   
+   
