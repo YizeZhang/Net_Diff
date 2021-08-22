@@ -660,12 +660,26 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
 ###     **V1.14**
    
 2021/08/21
-   1.  Support running Net_Diff via command line
+   1. Support running Net_Diff via command line
 
-   2.  Support precise clock file V3.04
+   2. Support multi-station PPP
+   
+   3. Open functions of CLAS
      
-   3.  Change data downloading to wget, which supports http.
+   4.  Change data downloading to wget, which supports http.
+ 
+   5.  Improve efficiency of Kalman Filter
 
-   4. Fix some other bugs
+   6.  Fig but of approximate coordinate calculation
+
+   7. Support PPP-AR with bias products from various anlysis centers
+
+   8. Support GLONASS RTK with same receiver type.
+  
+   9. More flexible for precise products that containing BDS-3 clock.
+
+   10. Support precise clock file V3.04
+
+   11. Fix some other bugs
    
    
