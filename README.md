@@ -666,17 +666,17 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    3. Open functions of CLAS
      
-   4.  Change data downloading to wget, which supports http.
+   4. Change data downloading using wget, which supports http
  
-   5.  Improve efficiency of Kalman Filter
+   5. Improve efficiency of Kalman Filter
 
-   6.  Fig but of approximate coordinate calculation
+   6. Fig bug of approximate coordinate calculation
 
    7. Support PPP-AR with bias products from various anlysis centers
 
-   8. Support GLONASS RTK with same receiver type.
+   8. Support GLONASS RTK with same receiver type
   
-   9. More flexible for precise products that containing BDS-3 clock.
+   9. More flexible for precise products that containing BDS-3 clock
 
    10. Support precise clock file V3.04
 
