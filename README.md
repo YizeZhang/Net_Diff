@@ -681,5 +681,12 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    10. Support precise clock file V3.04
 
    11. Fix some other bugs
+  
    
+2021/09/10 
+   1. Improve outlier detection
+
+   2. Fix bug of reading Galileo observation type
+   
+   3. Fix bug of reading observation header for VRS
    
