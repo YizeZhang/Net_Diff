@@ -68,7 +68,8 @@ We also provide online PPP/RTK Service:
          
 
 ***
-## Citation:
+## Citations:
+It is appreciated that if you cite Net_Diff with the following paper:
  1. Yize Zhang, Junping Chen, Xiuqiang Gong, Qian Chen. The update of BDS-2 TGD and its impact on positioning[J]. Advances in Space Research, 2020, 65(11):2645-2661.
  2. Zhang Yize, Kubo Nobuaki, Chen Junping, Wang Jiexian, Wang Hu. Initial Positioning Assessment of BDS New Satellites and New Signals[J]. Remote Sensing, 2019, 11(11): 1320.
 
