@@ -65,6 +65,12 @@ We also provide online PPP/RTK Service:
     
          If you have problems in setting the environment variables, you can simply copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe to C:\Program Files\Net_Diff\application and run Net_Diff from C:\Net_Diff\ application. 
          When running Net_Diff from the Windows Start or the Desktop, you should also copy C:\Program Files (x86)\GnuWin32\bin\gzip.exe and C:\Program Files\Net_Diff\application\crx2rnx.exe to the folder of C:\Windows\System32 or Desktop.
+         
+
+***
+## Citation:
+ 1. Yize Zhang, Junping Chen, Xiuqiang Gong, Qian Chen. The update of BDS-2 TGD and its impact on positioning[J]. Advances in Space Research, 2020, 65(11):2645-2661.
+ 2. Zhang Yize, Kubo Nobuaki, Chen Junping, Wang Jiexian, Wang Hu. Initial Positioning Assessment of BDS New Satellites and New Signals[J]. Remote Sensing, 2019, 11(11): 1320.
 
 ***
 ## Tips:
