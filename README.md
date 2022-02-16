@@ -704,3 +704,5 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    1. Support RINEX V4.0
   
    2. Fix bug of outlier detection
+
+   3. Fix bug of data downloading
