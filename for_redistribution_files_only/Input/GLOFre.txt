@@ -1,5 +1,5 @@
 
-! Last updated: 2021 12 30
+! Last updated: 2022  2 14
 ++GLONASS Information++++++++++++++++++++++++++++++++++++++++++++++++
 * 
 2005 01 01
