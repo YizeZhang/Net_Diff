@@ -710,3 +710,8 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    4. Fix bug of error correction using ssr data
 
    5. Fix bug of data downloading
+
+2022/04/02
+   1. Fix bug of reading phase bias files
+   
+   2. Fix bug of reading RINEX files 
