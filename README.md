@@ -715,3 +715,6 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    1. Fix bug of reading phase bias files
    
    2. Fix bug of reading RINEX files 
+
+2022/04/17
+   1. Fix bug of reading RINEX 3.05 BDS
