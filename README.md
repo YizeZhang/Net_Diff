@@ -720,3 +720,5 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    1. Fix bug of reading RINEX 3.05 BDS
    
    2. Support PPP-AR using GFZ integer clocks
+   
+   3. Fix bug of download the latest broadcast ephemeris
