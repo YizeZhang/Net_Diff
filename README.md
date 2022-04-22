@@ -721,4 +721,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    2. Support PPP-AR using GFZ integer clocks
    
-   3. Fix bug of download the latest broadcast ephemeris
+   3. Add options for BDS PPP-AR
+   
+   4. Fix bug of download the latest broadcast ephemeris
+   
