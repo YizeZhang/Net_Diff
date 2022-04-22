@@ -716,7 +716,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    2. Fix bug of reading RINEX files 
 
-2022/04/20
+2022/04/22
    1. Fix bug of reading RINEX 3.05 BDS
    
    2. Support PPP-AR using GFZ integer clocks
@@ -724,4 +724,6 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    3. Add options for BDS PPP-AR
    
    4. Fix bug of download the latest broadcast ephemeris
+   
+   5. Support online PPP-AR 
    
