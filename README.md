@@ -70,7 +70,7 @@ We also provide online PPP/RTK Service:
 ***
 ## Citations:
 It is appreciated that if you cite Net_Diff with the following paper:
- 1. Yize Zhang. Research on Real-time High Precision BeiDou Positioning Service System[J] Acta Geodaetica et Cartographica Sinica, 2018,47(9):1293. DOI:10.11947/j.AGCS.2018.20170534
+ 1. Yize Zhang. Research on Real-time High Precision BeiDou Positioning Service System[J]. Acta Geodaetica et Cartographica Sinica, 2018,47(9):1293. DOI:10.11947/j.AGCS.2018.20170534
  2. Yize Zhang, Junping Chen, Xiuqiang Gong, Qian Chen. The update of BDS-2 TGD and its impact on positioning[J]. Advances in Space Research, 2020, 65(11):2645-2661.
  3. Yize Zhang, Nobuaki Kubo, Junping Chen, Jiexian Wang, Hu Wang. Initial Positioning Assessment of BDS New Satellites and New Signals[J]. Remote Sensing, 2019, 11(11): 1320.
 
