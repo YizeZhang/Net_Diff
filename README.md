@@ -730,3 +730,5 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    6. Add option of PCO correction for WL AR
    
+2022/05/02
+   1. Add minimum satellite number in AR 
