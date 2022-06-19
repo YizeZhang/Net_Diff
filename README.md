@@ -732,3 +732,14 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
 2022/05/02
    1. Add minimum satellite number in AR 
+
+   
+---
+###     **V1.16**
+   
+2022/06/19
+   1. Support GPT3/VMF3
+   
+   2. Fix bug of reading data type of the third frequency
+   
+   
