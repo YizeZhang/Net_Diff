@@ -737,7 +737,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
 ---
 ###     **V1.16**
    
-2022/06/19
+2022/06/21
    1. Support GPT3/VMF3
    
    2. Fix bug of reading data type of the third frequency
@@ -745,5 +745,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    3. Support LEO based PPP 
    
    4. Support reading OBX file
+   
+   5. Fix bug of IODE for BDS SSR
    
    
