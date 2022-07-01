@@ -742,7 +742,7 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    2. Fix bug of reading data type of the third frequency
    
-   3. Support LEO based PPP 
+   3. Support PPP for LEO satellites 
    
    4. Support reading OBX file
    
