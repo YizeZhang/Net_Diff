@@ -747,5 +747,12 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    4. Support reading OBX file
    
    5. Fix bug of IODE for BDS SSR
+ 
+2022/09/01
+   1. Fix bug of WL PCO correction for BDS
+   
+   2. Fix bug of satellite velocity calculation
+   
+   3. Fix bug of BDS SSR decoding in dumpSSR
    
    
