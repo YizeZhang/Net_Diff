@@ -733,7 +733,6 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
 2022/05/02
    1. Add minimum satellite number in AR 
 
-   
 ---
 ###     **V1.16**
    
@@ -755,4 +754,22 @@ For any problems or suggestions in using Net_Diff, please contact me (zhyize@163
    
    3. Fix bug of BDS SSR decoding in dumpSSR
    
+---
+###     **V1.17**
+   
+   1. Many small changes 
+  
+---
+###     **V1.18**
+   
+   1. BDS and QZSS reference clock frequency update since GPS week 2405
+   
+   2. Improved cycle slip detection
+     
+---
+###     **V1.19**
+   
+   1. BDS attitude mode and intra-system bias due to BDS-3 PRN update 
+   
+   2. Add adaptive ionosphere estimation for un-combined PPP
    
